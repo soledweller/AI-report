@@ -3,7 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 
 from .models import RepoItem
-from .utils import ROOT, category_counts, format_dt, keyword_counts, now_shanghai, write_json, write_text
+from .utils import ROOT, category_counts, chinese_intro, format_dt, keyword_counts, now_shanghai, write_json, write_text
 
 
 def generate_daily_report(repos: list[RepoItem], raw_count: int, date_string: str | None = None) -> tuple[Path, Path]:
@@ -68,6 +68,9 @@ def render_daily_markdown(repos: list[RepoItem], raw_count: int, date: str) -> s
             f"- Matched Keywords: {', '.join(repo.matched_keywords) if repo.matched_keywords else '无'}",
             f"- Trend Score: {repo.trend_score:.2f}",
             "",
+            "中文简介：",
+            chinese_intro(repo),
+            "",
             "简介：",
             repo.description or "暂无简介。",
             "",
@@ -100,7 +103,7 @@ def render_daily_markdown(repos: list[RepoItem], raw_count: int, date: str) -> s
     lines += ["", "## 值得持续跟踪", ""]
     if repos:
         for repo in repos[:10]:
-            lines.append(f"- [{repo.full_name}]({repo.html_url})：{repo.reason}")
+            lines.append(f"- [{repo.full_name}]({repo.html_url})：{chinese_intro(repo)}{repo.reason}")
     else:
         lines.append("- 暂无项目。")
     lines.append("")

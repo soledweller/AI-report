@@ -115,3 +115,103 @@ def keyword_counts(items: Iterable[RepoItem]) -> Counter[str]:
     for item in items:
         counter.update(item.matched_keywords)
     return counter
+
+
+CATEGORY_CN: dict[str, str] = {
+    "LLM": "大语言模型",
+    "Agent": "AI 智能体",
+    "RAG": "检索增强生成",
+    "Multimodal": "多模态 AI",
+    "Vision": "视觉理解",
+    "Speech": "语音 AI",
+    "Audio": "音频 AI",
+    "Video": "视频 AI",
+    "Diffusion": "扩散生成模型",
+    "Image Generation": "图像生成",
+    "AI Coding": "AI 编程",
+    "Inference": "模型推理",
+    "Serving": "模型服务",
+    "Fine-tuning": "模型微调",
+    "Quantization": "模型量化",
+    "Evaluation": "模型评测",
+    "Benchmark": "基准测试",
+    "Dataset": "数据集",
+    "Data Engineering": "数据工程",
+    "Vector Database": "向量数据库",
+    "Embedding": "向量嵌入",
+    "Knowledge Graph": "知识图谱",
+    "MLOps": "机器学习工程化",
+    "Workflow": "工作流",
+    "Automation": "自动化",
+    "Robotics": "机器人",
+    "Edge AI": "边缘 AI",
+    "On-device AI": "端侧 AI",
+    "AI Security": "AI 安全",
+    "AI Infra": "AI 基础设施",
+    "Prompt Engineering": "提示词工程",
+    "Model Compression": "模型压缩",
+    "Alignment": "模型对齐",
+    "RLHF": "强化学习反馈",
+    "Reasoning": "推理能力",
+    "Long Context": "长上下文",
+    "Memory": "智能体记忆",
+    "Tool Use": "工具调用",
+}
+
+
+def chinese_intro(repo: RepoItem) -> str:
+    """Create a short Chinese project intro without calling an external LLM."""
+    categories = [CATEGORY_CN.get(category, category) for category in repo.categories[:4]]
+    category_text = "、".join(categories) if categories else "AI 技术"
+    language_text = "" if repo.language in {"", "Unknown"} else f"，主要使用 {repo.language}"
+    keyword_text = ""
+    if repo.matched_keywords:
+        keyword_text = f"，命中关键词包括 {', '.join(repo.matched_keywords[:4])}"
+
+    purpose = infer_project_purpose(repo)
+    return f"这是一个面向{category_text}方向的{purpose}{language_text}{keyword_text}。"
+
+
+def infer_project_purpose(repo: RepoItem) -> str:
+    text = " ".join(
+        [
+            repo.full_name,
+            repo.description or "",
+            " ".join(repo.topics),
+            " ".join(repo.matched_keywords),
+            " ".join(repo.categories),
+        ]
+    ).lower()
+    rules = [
+        ("AI Coding", "开发者工具或编程助手项目"),
+        ("agent", "智能体框架或自动化工具"),
+        ("rag", "知识库问答、检索增强生成或文档检索项目"),
+        ("retrieval", "知识库问答、检索增强生成或文档检索项目"),
+        ("inference", "模型推理、部署或服务化项目"),
+        ("serving", "模型推理、部署或服务化项目"),
+        ("fine", "模型训练或微调工具"),
+        ("lora", "模型训练或微调工具"),
+        ("quant", "模型量化、压缩或低成本部署项目"),
+        ("benchmark", "模型评测或基准测试项目"),
+        ("eval", "模型评测或基准测试项目"),
+        ("dataset", "数据集、数据生成或数据处理项目"),
+        ("vector", "向量检索、语义搜索或向量数据库项目"),
+        ("embedding", "向量检索、语义搜索或向量数据库项目"),
+        ("diffusion", "图像或视频生成项目"),
+        ("image generation", "图像或视频生成项目"),
+        ("video", "视频理解、视频编辑或视频生成项目"),
+        ("speech", "语音识别、语音合成或语音交互项目"),
+        ("audio", "音频生成、处理或语音交互项目"),
+        ("security", "AI 安全、防护或风险评估项目"),
+        ("prompt", "提示词工程、上下文管理或交互优化项目"),
+        ("workflow", "AI 工作流编排或自动化项目"),
+        ("robot", "机器人或具身智能项目"),
+        ("edge", "边缘设备、浏览器或端侧 AI 部署项目"),
+        ("mlops", "模型部署、监控或工程化平台"),
+    ]
+    for needle, purpose in rules:
+        if needle.lower() in text:
+            return purpose
+    if "llm" in text or "language model" in text:
+        return "大语言模型应用、框架或工具项目"
+    return "开源 AI 项目"

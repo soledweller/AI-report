@@ -8,6 +8,7 @@ from .models import RepoItem
 from .utils import (
     ROOT,
     category_counts,
+    chinese_intro,
     format_dt,
     keyword_counts,
     now_shanghai,
@@ -117,7 +118,7 @@ def render_weekly_markdown(repos: list[RepoItem], week_id: str, start: str, end:
         for category, items in sorted(grouped.items(), key=lambda kv: (-len(kv[1]), kv[0])):
             lines += [f"### {category}", ""]
             for repo in sort_repos(items)[:8]:
-                lines.append(f"- [{repo.full_name}]({repo.html_url})：Score {repo.trend_score:.2f}，{repo.description or '暂无简介'}")
+                lines.append(f"- [{repo.full_name}]({repo.html_url})：{chinese_intro(repo)}Score {repo.trend_score:.2f}。")
             lines.append("")
     else:
         lines.append("暂无可归类项目。")
@@ -137,14 +138,14 @@ def render_weekly_markdown(repos: list[RepoItem], week_id: str, start: str, end:
     hot = [repo for repo in repos if repo.trend_score >= 70 or repo.stargazers_count >= 5_000][:10]
     if hot:
         for repo in hot:
-            lines.append(f"- [{repo.full_name}]({repo.html_url})：{repo.reason}")
+            lines.append(f"- [{repo.full_name}]({repo.html_url})：{chinese_intro(repo)}{repo.reason}")
     else:
         lines.append("- 暂无明显持续升温项目。")
 
     lines += ["", "## 值得长期关注", ""]
     if repos:
         for repo in repos[:10]:
-            lines.append(f"- [{repo.full_name}]({repo.html_url})：{long_term_reason(repo)}")
+            lines.append(f"- [{repo.full_name}]({repo.html_url})：{chinese_intro(repo)}{long_term_reason(repo)}")
     else:
         lines.append("- 暂无项目。")
     lines.append("")
