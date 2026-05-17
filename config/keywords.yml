@@ -1,0 +1,306 @@
+LLM:
+  - llm
+  - large language model
+  - language model
+  - foundation model
+  - open source llm
+  - local llm
+  - small language model
+  - slm
+  - reasoning model
+  - long context
+  - context engineering
+  - prompt engineering
+  - instruction tuning
+  - chat model
+  - text generation
+  - transformer
+  - mixture of experts
+  - moe model
+  - qwen
+  - llama
+  - mistral
+  - gemma
+  - deepseek
+Agent:
+  - ai agent
+  - llm agent
+  - multi agent
+  - autonomous agent
+  - agent framework
+  - agentic workflow
+  - tool calling
+  - function calling
+  - computer use
+  - browser agent
+  - coding agent
+  - task automation
+  - workflow agent
+  - ai workflow
+  - agent memory
+  - agent planning
+  - openai agents
+  - langgraph
+  - crewai
+  - autogen
+  - openhands
+  - devin
+RAG:
+  - rag
+  - retrieval augmented generation
+  - graph rag
+  - agentic rag
+  - hybrid search
+  - semantic search
+  - vector search
+  - embedding search
+  - reranker
+  - knowledge base
+  - knowledge graph
+  - document retrieval
+  - document qa
+  - chunking
+  - query expansion
+  - contextual retrieval
+  - deep research
+Multimodal:
+  - multimodal
+  - vision language model
+  - vlm
+  - image understanding
+  - video understanding
+  - audio language model
+  - speech language model
+  - document understanding
+  - ocr ai
+  - layout analysis
+  - image captioning
+  - visual question answering
+  - pdf understanding
+  - table extraction
+  - chart understanding
+Inference:
+  - inference
+  - llm inference
+  - model serving
+  - vllm
+  - sglang
+  - tensorrt-llm
+  - llama.cpp
+  - ollama
+  - lmdeploy
+  - tgi
+  - text generation inference
+  - openai compatible api
+  - kv cache
+  - speculative decoding
+  - continuous batching
+  - paged attention
+  - flash attention
+  - serving engine
+  - inference optimization
+  - gpu inference
+  - cpu inference
+Fine-tuning:
+  - fine tuning
+  - finetuning
+  - lora
+  - qlora
+  - peft
+  - unsloth
+  - axolotl
+  - trl
+  - dpo
+  - grpo
+  - rlhf
+  - sft
+  - distillation
+  - model training
+  - instruction tuning
+  - preference optimization
+  - reward model
+  - adapter tuning
+Quantization:
+  - quantization
+  - int4
+  - int8
+  - fp8
+  - gguf
+  - gptq
+  - awq
+  - bitsandbytes
+  - model compression
+  - pruning
+  - weight only quantization
+  - quantized llm
+  - low bit
+  - onnx quantization
+AI Coding:
+  - ai coding
+  - code generation
+  - coding assistant
+  - copilot
+  - software engineering agent
+  - code agent
+  - code review ai
+  - repo agent
+  - swe agent
+  - code interpreter
+  - terminal agent
+  - automated programming
+  - bug fixing agent
+  - pull request agent
+  - code search
+  - codebase understanding
+Evaluation:
+  - llm evaluation
+  - eval
+  - benchmark
+  - hallucination
+  - rag evaluation
+  - agent benchmark
+  - model benchmark
+  - safety evaluation
+  - red teaming
+  - llm judge
+  - eval harness
+  - prompt evaluation
+  - regression evaluation
+  - golden dataset
+  - leaderboard
+Data:
+  - dataset
+  - synthetic data
+  - data generation
+  - data curation
+  - data labeling
+  - data pipeline
+  - web scraping
+  - document parsing
+  - data extraction
+  - text corpus
+  - pretraining data
+  - instruction dataset
+  - conversation dataset
+  - data cleaning
+Vector Database:
+  - vector database
+  - vector db
+  - embedding
+  - milvus
+  - qdrant
+  - chroma
+  - weaviate
+  - faiss
+  - pgvector
+  - vector store
+  - similarity search
+  - nearest neighbor search
+  - ann search
+MLOps:
+  - mlops
+  - llmops
+  - model deployment
+  - model monitoring
+  - prompt management
+  - experiment tracking
+  - ai observability
+  - inference monitoring
+  - model registry
+  - feature store
+  - model gateway
+  - llm gateway
+  - cost tracking
+  - token usage
+Diffusion:
+  - diffusion
+  - stable diffusion
+  - image generation
+  - text to image
+  - video generation
+  - image editing
+  - flux
+  - comfyui
+  - controlnet
+  - lora diffusion
+  - dreambooth
+  - image to image
+  - text to video
+  - generative image
+Robotics:
+  - robotics ai
+  - embodied ai
+  - robot learning
+  - vision language action
+  - vla
+  - autonomous robot
+  - robot policy
+  - imitation learning
+  - reinforcement learning robot
+  - manipulation
+  - navigation robot
+Edge AI:
+  - edge ai
+  - on device ai
+  - mobile ai
+  - tinyml
+  - local inference
+  - webgpu ai
+  - wasm ai
+  - browser ai
+  - mobile inference
+  - embedded ai
+  - npu
+  - coreml
+  - mlc llm
+Security:
+  - ai security
+  - llm security
+  - prompt injection
+  - jailbreak
+  - model safety
+  - ai guardrails
+  - privacy preserving ai
+  - data leakage
+  - adversarial attack
+  - content moderation
+  - safety filter
+  - secure ai
+  - confidential ai
+Audio Speech:
+  - speech recognition
+  - text to speech
+  - tts
+  - asr
+  - voice cloning
+  - speech synthesis
+  - audio generation
+  - music generation
+  - voice agent
+  - real time speech
+  - whisper
+  - speaker diarization
+Video:
+  - video generation
+  - text to video
+  - video editing
+  - video understanding
+  - video model
+  - video diffusion
+  - video agent
+  - action recognition
+  - temporal understanding
+AI Infra:
+  - ai infra
+  - gpu cluster
+  - distributed training
+  - training framework
+  - model parallel
+  - tensor parallel
+  - pipeline parallel
+  - deepspeed
+  - megatron
+  - ray
+  - kubernetes ai
+  - serverless ai
+  - ai platform
