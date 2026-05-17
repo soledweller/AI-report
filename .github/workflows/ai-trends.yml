@@ -1,0 +1,76 @@
+name: AI Trends Reports
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    - cron: "30 0 * * 1"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Report mode"
+        required: true
+        default: "daily"
+        type: choice
+        options:
+          - daily
+          - weekly
+          - both
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Resolve mode
+        id: mode
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            MODE="${{ inputs.mode }}"
+          elif [[ "${{ github.event.schedule }}" == "0 0 * * *" ]]; then
+            MODE="daily"
+          elif [[ "${{ github.event.schedule }}" == "30 0 * * 1" ]]; then
+            MODE="weekly"
+          else
+            MODE="daily"
+          fi
+          echo "mode=${MODE}" >> "$GITHUB_OUTPUT"
+
+      - name: Generate reports
+        run: python run.py --mode "${{ steps.mode.outputs.mode }}" --days 7 --limit 50 --min-stars 50
+
+      - name: Commit reports
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/
+          if git diff --cached --quiet; then
+            echo "No report changes to commit."
+            exit 0
+          fi
+          MODE="${{ steps.mode.outputs.mode }}"
+          if [[ "$MODE" == "daily" ]]; then
+            MESSAGE="Add daily AI trends report"
+          elif [[ "$MODE" == "weekly" ]]; then
+            MESSAGE="Add weekly AI trends report"
+          else
+            MESSAGE="Add AI trends reports"
+          fi
+          git commit -m "$MESSAGE"
+          git push
