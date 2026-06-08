@@ -1,0 +1,4420 @@
+{
+  "week": "2026-24",
+  "start": "2026-06-02",
+  "end": "2026-06-08",
+  "generated_at": "2026-06-08T22:52:11.090091+08:00",
+  "repos": [
+    {
+      "full_name": "rasbt/LLMs-from-scratch",
+      "html_url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "stargazers_count": 96623,
+      "forks_count": 14781,
+      "watchers_count": 96623,
+      "open_issues_count": 2,
+      "language": "Jupyter Notebook",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "attention-mechanism",
+        "deep-learning",
+        "finetuning",
+        "from-scratch",
+        "generative-ai",
+        "gpt",
+        "instruction-tuning",
+        "language-model",
+        "large-language-models",
+        "llm",
+        "machine-learning",
+        "natural-language-processing",
+        "pretraining",
+        "python",
+        "pytorch",
+        "tokenizer",
+        "transformers"
+      ],
+      "pushed_at": "2026-06-02T14:14:19Z",
+      "created_at": "2023-07-23T18:15:57Z",
+      "updated_at": "2026-06-04T11:24:48Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Fine-tuning",
+        "LLM"
+      ],
+      "trend_score": 95.26,
+      "reason": "已有较高社区关注度；命中 ai, artificial-intelligence, deep-learning, generative-ai 等 AI 相关 topic；关键词覆盖 llm；可归入 Fine-tuning, LLM 方向。"
+    },
+    {
+      "full_name": "vllm-project/vllm",
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stargazers_count": 81695,
+      "forks_count": 17556,
+      "watchers_count": 81695,
+      "open_issues_count": 5155,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "pushed_at": "2026-06-02T12:06:34Z",
+      "created_at": "2023-02-09T11:23:20Z",
+      "updated_at": "2026-06-02T12:55:52Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Inference",
+        "LLM",
+        "Memory",
+        "Serving"
+      ],
+      "trend_score": 93.53,
+      "reason": "已有较高社区关注度；命中 inference, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Inference, LLM, Memory, Serving 方向。"
+    },
+    {
+      "full_name": "sgl-project/sglang",
+      "html_url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "stargazers_count": 28894,
+      "forks_count": 6284,
+      "watchers_count": 28894,
+      "open_issues_count": 3690,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "attention",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "diffusion",
+        "glm",
+        "gpt-oss",
+        "inference",
+        "llama",
+        "llm",
+        "minimax",
+        "moe",
+        "qwen",
+        "qwen-image",
+        "reinforcement-learning",
+        "transformer",
+        "vlm",
+        "wan"
+      ],
+      "pushed_at": "2026-06-02T12:55:24Z",
+      "created_at": "2024-01-08T04:15:52Z",
+      "updated_at": "2026-06-02T12:55:30Z",
+      "matched_keywords": [
+        "diffusion",
+        "language model",
+        "large language model",
+        "llm"
+      ],
+      "categories": [
+        "Diffusion",
+        "Inference",
+        "LLM",
+        "Multimodal",
+        "Serving"
+      ],
+      "trend_score": 91.8,
+      "reason": "已有较高社区关注度；命中 diffusion, inference, llm 等 AI 相关 topic；关键词覆盖 diffusion, language model, large language model, llm；可归入 Diffusion, Inference, LLM, Multimodal 方向。"
+    },
+    {
+      "full_name": "Comfy-Org/ComfyUI",
+      "html_url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "stargazers_count": 116193,
+      "forks_count": 13606,
+      "watchers_count": 116193,
+      "open_issues_count": 4094,
+      "language": "Python",
+      "license_name": "GPL-3.0",
+      "topics": [
+        "ai",
+        "comfy",
+        "comfyui",
+        "python",
+        "pytorch",
+        "stable-diffusion"
+      ],
+      "pushed_at": "2026-06-08T10:15:05Z",
+      "created_at": "2023-01-17T03:15:56Z",
+      "updated_at": "2026-06-08T14:34:28Z",
+      "matched_keywords": [
+        "comfyui",
+        "diffusion"
+      ],
+      "categories": [
+        "Diffusion"
+      ],
+      "trend_score": 91.32,
+      "reason": "已有较高社区关注度；命中 ai 等 AI 相关 topic；关键词覆盖 comfyui, diffusion；可归入 Diffusion 方向。"
+    },
+    {
+      "full_name": "Mintplex-Labs/anything-llm",
+      "html_url": "https://github.com/Mintplex-Labs/anything-llm",
+      "description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
+      "stargazers_count": 60936,
+      "forks_count": 6617,
+      "watchers_count": 60936,
+      "open_issues_count": 326,
+      "language": "JavaScript",
+      "license_name": "MIT",
+      "topics": [
+        "ai-agents",
+        "custom-ai-agents",
+        "deepseek",
+        "kimi",
+        "llama3",
+        "llm",
+        "lmstudio",
+        "local-llm",
+        "localai",
+        "mcp",
+        "mcp-servers",
+        "moonshot",
+        "multimodal",
+        "no-code",
+        "ollama",
+        "qwen3",
+        "rag",
+        "vector-database",
+        "web-scraping"
+      ],
+      "pushed_at": "2026-06-02T04:28:00Z",
+      "created_at": "2023-06-04T02:29:14Z",
+      "updated_at": "2026-06-02T12:42:12Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "AI Security",
+        "Agent",
+        "Inference",
+        "LLM",
+        "Multimodal",
+        "On-device AI",
+        "RAG"
+      ],
+      "trend_score": 91.14,
+      "reason": "已有较高社区关注度；命中 llm, rag 等 AI 相关 topic；关键词覆盖 llm；可归入 AI Security, Agent, Inference, LLM 方向。"
+    },
+    {
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stargazers_count": 112589,
+      "forks_count": 16707,
+      "watchers_count": 112589,
+      "open_issues_count": 11,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "pushed_at": "2026-06-01T03:30:58Z",
+      "created_at": "2024-04-29T05:30:25Z",
+      "updated_at": "2026-06-02T12:55:31Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM",
+        "RAG"
+      ],
+      "trend_score": 90.67,
+      "reason": "已有较高社区关注度；命中 agents, rag 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM, RAG 方向。"
+    },
+    {
+      "full_name": "hiyouga/LlamaFactory",
+      "html_url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stargazers_count": 71802,
+      "forks_count": 8776,
+      "watchers_count": 71802,
+      "open_issues_count": 1029,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "agent",
+        "ai",
+        "deepseek",
+        "fine-tuning",
+        "gemma",
+        "gpt",
+        "instruction-tuning",
+        "large-language-models",
+        "llama",
+        "llama3",
+        "llm",
+        "lora",
+        "moe",
+        "nlp",
+        "peft",
+        "qlora",
+        "quantization",
+        "qwen",
+        "rlhf",
+        "transformers"
+      ],
+      "pushed_at": "2026-06-01T13:04:53Z",
+      "created_at": "2023-05-28T10:09:12Z",
+      "updated_at": "2026-06-02T12:48:18Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "Fine-tuning",
+        "LLM",
+        "Multimodal",
+        "Quantization",
+        "RLHF"
+      ],
+      "trend_score": 89.65,
+      "reason": "已有较高社区关注度；命中 ai, llm, nlp, transformers 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, Fine-tuning, LLM, Multimodal 方向。"
+    },
+    {
+      "full_name": "langchain-ai/langchain",
+      "html_url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stargazers_count": 138314,
+      "forks_count": 22924,
+      "watchers_count": 138314,
+      "open_issues_count": 607,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag",
+        "typescript"
+      ],
+      "pushed_at": "2026-06-02T09:27:39Z",
+      "created_at": "2022-10-17T02:58:36Z",
+      "updated_at": "2026-06-02T12:35:01Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM",
+        "RAG"
+      ],
+      "trend_score": 89.4,
+      "reason": "已有较高社区关注度；命中 agents, ai, generative-ai, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM, RAG 方向。"
+    },
+    {
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stargazers_count": 184711,
+      "forks_count": 46192,
+      "watchers_count": 184711,
+      "open_issues_count": 439,
+      "language": "Python",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "artificial-intelligence",
+        "autonomous-agents",
+        "claude",
+        "gpt",
+        "llama-api",
+        "llm",
+        "openai",
+        "python"
+      ],
+      "pushed_at": "2026-06-02T11:46:10Z",
+      "created_at": "2023-03-16T09:21:07Z",
+      "updated_at": "2026-06-02T12:00:03Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM",
+        "Vision"
+      ],
+      "trend_score": 89.1,
+      "reason": "已有较高社区关注度；命中 agents, ai, artificial-intelligence, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM, Vision 方向。"
+    },
+    {
+      "full_name": "f/prompts.chat",
+      "html_url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "stargazers_count": 163179,
+      "forks_count": 21211,
+      "watchers_count": 163179,
+      "open_issues_count": 47,
+      "language": "HTML",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "awesome-list",
+        "chatgpt",
+        "chatgpt-prompts",
+        "claude",
+        "gemini",
+        "gpt",
+        "gpt-4",
+        "llm",
+        "machine-learning",
+        "nextjs",
+        "open-source",
+        "openai",
+        "prompt-engineering",
+        "prompts",
+        "prompts-chat",
+        "typescript"
+      ],
+      "pushed_at": "2026-06-02T04:35:07Z",
+      "created_at": "2022-12-05T13:54:13Z",
+      "updated_at": "2026-06-02T12:41:48Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "AI Security",
+        "LLM"
+      ],
+      "trend_score": 89.1,
+      "reason": "已有较高社区关注度；命中 ai, artificial-intelligence, llm, machine-learning 等 AI 相关 topic；关键词覆盖 llm；可归入 AI Security, LLM 方向。"
+    },
+    {
+      "full_name": "huggingface/transformers",
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "stargazers_count": 161199,
+      "forks_count": 33384,
+      "watchers_count": 161199,
+      "open_issues_count": 2385,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "pushed_at": "2026-06-02T12:54:26Z",
+      "created_at": "2018-10-29T13:56:00Z",
+      "updated_at": "2026-06-02T12:52:41Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Audio",
+        "Inference",
+        "LLM",
+        "Multimodal",
+        "Speech",
+        "Vision"
+      ],
+      "trend_score": 89.1,
+      "reason": "已有较高社区关注度；命中 deep-learning, llm, machine-learning, nlp 等 AI 相关 topic；关键词覆盖 llm；可归入 Audio, Inference, LLM, Multimodal 方向。"
+    },
+    {
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stargazers_count": 31973,
+      "forks_count": 4123,
+      "watchers_count": 31973,
+      "open_issues_count": 534,
+      "language": "TypeScript",
+      "license_name": "MIT",
+      "topics": [
+        "agent",
+        "agent-native",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agent",
+        "ai-assistant",
+        "assistant",
+        "assistant-chat-bots",
+        "copilot",
+        "copilot-chat",
+        "generative-ui",
+        "js",
+        "llm",
+        "nextjs",
+        "open-source",
+        "react",
+        "reactjs",
+        "ts",
+        "typescript"
+      ],
+      "pushed_at": "2026-06-04T11:32:02Z",
+      "created_at": "2023-06-19T04:08:31Z",
+      "updated_at": "2026-06-04T11:35:36Z",
+      "matched_keywords": [
+        "copilot",
+        "llm"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 88.84,
+      "reason": "已有较高社区关注度；命中 agents, ai, llm 等 AI 相关 topic；关键词覆盖 copilot, llm；可归入 AI Coding, Agent, LLM 方向。"
+    },
+    {
+      "full_name": "NVIDIA-NeMo/NeMo",
+      "html_url": "https://github.com/NVIDIA-NeMo/NeMo",
+      "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+      "stargazers_count": 17292,
+      "forks_count": 3420,
+      "watchers_count": 17292,
+      "open_issues_count": 174,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "asr",
+        "deeplearning",
+        "generative-ai",
+        "machine-translation",
+        "neural-networks",
+        "speaker-diariazation",
+        "speaker-recognition",
+        "speech-synthesis",
+        "speech-translation",
+        "tts"
+      ],
+      "pushed_at": "2026-06-02T12:56:34Z",
+      "created_at": "2019-08-05T20:16:42Z",
+      "updated_at": "2026-06-02T12:56:48Z",
+      "matched_keywords": [
+        "asr",
+        "language model",
+        "large language model",
+        "speech recognition",
+        "text to speech",
+        "tts"
+      ],
+      "categories": [
+        "Audio",
+        "LLM",
+        "Multimodal",
+        "Speech"
+      ],
+      "trend_score": 88.49,
+      "reason": "已有较高社区关注度；命中 generative-ai 等 AI 相关 topic；关键词覆盖 asr, language model, large language model, speech recognition, text to speech；可归入 Audio, LLM, Multimodal, Speech 方向。"
+    },
+    {
+      "full_name": "langgenius/dify",
+      "html_url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stargazers_count": 143525,
+      "forks_count": 22583,
+      "watchers_count": 143525,
+      "open_issues_count": 815,
+      "language": "TypeScript",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "automation",
+        "gemini",
+        "genai",
+        "gpt",
+        "gpt-4",
+        "llm",
+        "low-code",
+        "mcp",
+        "nextjs",
+        "no-code",
+        "openai",
+        "orchestration",
+        "python",
+        "rag",
+        "workflow"
+      ],
+      "pushed_at": "2026-06-02T12:37:13Z",
+      "created_at": "2023-04-12T07:40:24Z",
+      "updated_at": "2026-06-02T12:57:22Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "Automation",
+        "LLM",
+        "RAG",
+        "Workflow"
+      ],
+      "trend_score": 87.3,
+      "reason": "已有较高社区关注度；命中 ai, llm, rag 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, Automation, LLM, RAG 方向。"
+    },
+    {
+      "full_name": "open-webui/open-webui",
+      "html_url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stargazers_count": 139672,
+      "forks_count": 20041,
+      "watchers_count": 139672,
+      "open_issues_count": 256,
+      "language": "Python",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "rag",
+        "self-hosted",
+        "ui",
+        "webui"
+      ],
+      "pushed_at": "2026-06-02T02:22:06Z",
+      "created_at": "2023-10-06T22:08:27Z",
+      "updated_at": "2026-06-02T12:53:03Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Inference",
+        "LLM",
+        "RAG"
+      ],
+      "trend_score": 87.3,
+      "reason": "已有较高社区关注度；命中 ai, llm, rag 等 AI 相关 topic；关键词覆盖 llm；可归入 Inference, LLM, RAG 方向。"
+    },
+    {
+      "full_name": "infiniflow/ragflow",
+      "html_url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stargazers_count": 81731,
+      "forks_count": 9403,
+      "watchers_count": 81731,
+      "open_issues_count": 3185,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "agentic-ai",
+        "agentic-retrieval",
+        "agentic-search",
+        "ai",
+        "ai-agents",
+        "context-engine",
+        "context-management",
+        "llm-apps",
+        "rag",
+        "retrieval-augmented-generation"
+      ],
+      "pushed_at": "2026-06-02T11:34:26Z",
+      "created_at": "2023-12-12T06:13:13Z",
+      "updated_at": "2026-06-02T12:24:52Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "Evaluation",
+        "LLM",
+        "Long Context",
+        "RAG"
+      ],
+      "trend_score": 86.57,
+      "reason": "已有较高社区关注度；命中 ai, rag 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, Evaluation, LLM, Long Context 方向。"
+    },
+    {
+      "full_name": "BerriAI/litellm",
+      "html_url": "https://github.com/BerriAI/litellm",
+      "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+      "stargazers_count": 49454,
+      "forks_count": 8643,
+      "watchers_count": 49454,
+      "open_issues_count": 3524,
+      "language": "Python",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "ai-gateway",
+        "anthropic",
+        "azure-openai",
+        "bedrock",
+        "gateway",
+        "langchain",
+        "litellm",
+        "llm",
+        "llm-gateway",
+        "llmops",
+        "mcp-gateway",
+        "openai",
+        "openai-proxy",
+        "vertex-ai"
+      ],
+      "pushed_at": "2026-06-06T09:09:16Z",
+      "created_at": "2023-07-27T00:09:52Z",
+      "updated_at": "2026-06-06T09:13:01Z",
+      "matched_keywords": [
+        "cost tracking",
+        "llm"
+      ],
+      "categories": [
+        "AI Security",
+        "Inference",
+        "LLM",
+        "MLOps"
+      ],
+      "trend_score": 86.09,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 cost tracking；可归入 AI Security, Inference, LLM, MLOps 方向。"
+    },
+    {
+      "full_name": "pathwaycom/llm-app",
+      "html_url": "https://github.com/pathwaycom/llm-app",
+      "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+      "stargazers_count": 59454,
+      "forks_count": 1430,
+      "watchers_count": 59454,
+      "open_issues_count": 10,
+      "language": "Jupyter Notebook",
+      "license_name": "MIT",
+      "topics": [
+        "chatbot",
+        "hugging-face",
+        "llm",
+        "llm-local",
+        "llm-prompting",
+        "llm-security",
+        "llmops",
+        "machine-learning",
+        "open-ai",
+        "pathway",
+        "rag",
+        "real-time",
+        "retrieval-augmented-generation",
+        "vector-database",
+        "vector-index"
+      ],
+      "pushed_at": "2026-06-03T18:09:53Z",
+      "created_at": "2023-07-19T08:43:37Z",
+      "updated_at": "2026-06-04T10:33:35Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "AI Security",
+        "Evaluation",
+        "LLM",
+        "MLOps",
+        "RAG"
+      ],
+      "trend_score": 85.72,
+      "reason": "已有较高社区关注度；命中 llm, machine-learning, rag 等 AI 相关 topic；关键词覆盖 llm；可归入 AI Security, Evaluation, LLM, MLOps 方向。"
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stargazers_count": 176761,
+      "forks_count": 30188,
+      "watchers_count": 176761,
+      "open_issues_count": 16449,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "clawdbot",
+        "codex",
+        "hermes",
+        "hermes-agent",
+        "llm",
+        "moltbot",
+        "nous-research",
+        "openai",
+        "openclaw"
+      ],
+      "pushed_at": "2026-06-02T12:52:57Z",
+      "created_at": "2025-07-22T22:22:28Z",
+      "updated_at": "2026-06-02T12:58:07Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 85.5,
+      "reason": "已有较高社区关注度；命中 ai, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM 方向。"
+    },
+    {
+      "full_name": "ggml-org/whisper.cpp",
+      "html_url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "stargazers_count": 50440,
+      "forks_count": 5616,
+      "watchers_count": 50440,
+      "open_issues_count": 1192,
+      "language": "C++",
+      "license_name": "MIT",
+      "topics": [
+        "inference",
+        "openai",
+        "speech-recognition",
+        "speech-to-text",
+        "transformer",
+        "whisper"
+      ],
+      "pushed_at": "2026-06-04T09:38:46Z",
+      "created_at": "2022-09-25T18:26:37Z",
+      "updated_at": "2026-06-04T11:36:33Z",
+      "matched_keywords": [
+        "whisper"
+      ],
+      "categories": [
+        "Audio",
+        "Inference",
+        "LLM",
+        "Speech"
+      ],
+      "trend_score": 85.5,
+      "reason": "已有较高社区关注度；命中 inference 等 AI 相关 topic；关键词覆盖 whisper；可归入 Audio, Inference, LLM, Speech 方向。"
+    },
+    {
+      "full_name": "unslothai/unsloth",
+      "html_url": "https://github.com/unslothai/unsloth",
+      "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+      "stargazers_count": 65571,
+      "forks_count": 5863,
+      "watchers_count": 65571,
+      "open_issues_count": 1348,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "agent",
+        "deepseek",
+        "fine-tuning",
+        "gemma",
+        "gemma3",
+        "gpt-oss",
+        "llama",
+        "llama3",
+        "llm",
+        "llms",
+        "mistral",
+        "openai",
+        "qwen",
+        "reinforcement-learning",
+        "self-hosted",
+        "text-to-speech",
+        "tts",
+        "ui",
+        "unsloth"
+      ],
+      "pushed_at": "2026-06-02T12:54:36Z",
+      "created_at": "2023-11-29T16:50:09Z",
+      "updated_at": "2026-06-02T12:42:30Z",
+      "matched_keywords": [
+        "llm",
+        "tts"
+      ],
+      "categories": [
+        "Agent",
+        "Audio",
+        "LLM",
+        "Speech"
+      ],
+      "trend_score": 84.99,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 llm, tts；可归入 Agent, Audio, LLM, Speech 方向。"
+    },
+    {
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "html_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. Github Copilot. Perplexity, and more. Updated regularly.",
+      "stargazers_count": 41234,
+      "forks_count": 6836,
+      "watchers_count": 41234,
+      "open_issues_count": 26,
+      "language": "JavaScript",
+      "license_name": "CC0-1.0",
+      "topics": [
+        "ai",
+        "anthropic",
+        "awesome",
+        "chatbot",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "deep-learning",
+        "education",
+        "gemini",
+        "generative-ai",
+        "google",
+        "llm",
+        "machine-learning",
+        "natural-language-processing",
+        "nlp",
+        "open-source",
+        "openai",
+        "prompt-engineering"
+      ],
+      "pushed_at": "2026-06-04T11:07:29Z",
+      "created_at": "2025-05-03T02:43:56Z",
+      "updated_at": "2026-06-04T11:07:35Z",
+      "matched_keywords": [
+        "copilot",
+        "llm"
+      ],
+      "categories": [
+        "AI Coding",
+        "LLM"
+      ],
+      "trend_score": 84.89,
+      "reason": "已有较高社区关注度；命中 ai, deep-learning, generative-ai, llm 等 AI 相关 topic；关键词覆盖 copilot, llm；可归入 AI Coding, LLM 方向。"
+    },
+    {
+      "full_name": "huggingface/diffusers",
+      "html_url": "https://github.com/huggingface/diffusers",
+      "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+      "stargazers_count": 33771,
+      "forks_count": 7020,
+      "watchers_count": 33771,
+      "open_issues_count": 1164,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "deep-learning",
+        "diffusion",
+        "flux",
+        "image-generation",
+        "image2image",
+        "image2video",
+        "latent-diffusion-models",
+        "pytorch",
+        "qwen-image",
+        "score-based-generative-modeling",
+        "stable-diffusion",
+        "stable-diffusion-diffusers",
+        "text2image",
+        "text2video",
+        "video2video"
+      ],
+      "pushed_at": "2026-06-04T11:17:16Z",
+      "created_at": "2022-05-30T16:04:02Z",
+      "updated_at": "2026-06-04T11:13:59Z",
+      "matched_keywords": [
+        "audio generation",
+        "diffusion",
+        "flux"
+      ],
+      "categories": [
+        "Audio",
+        "Diffusion",
+        "LLM",
+        "Speech",
+        "Video"
+      ],
+      "trend_score": 84.82,
+      "reason": "已有较高社区关注度；命中 deep-learning, diffusion 等 AI 相关 topic；关键词覆盖 audio generation；可归入 Audio, Diffusion, LLM, Speech 方向。"
+    },
+    {
+      "full_name": "github/awesome-copilot",
+      "html_url": "https://github.com/github/awesome-copilot",
+      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+      "stargazers_count": 34442,
+      "forks_count": 4214,
+      "watchers_count": 34442,
+      "open_issues_count": 66,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "agent-skills",
+        "agents",
+        "ai",
+        "awesome",
+        "custom-agents",
+        "github-copilot",
+        "hacktoberfest",
+        "prompt-engineering"
+      ],
+      "pushed_at": "2026-06-02T18:18:25Z",
+      "created_at": "2025-06-11T16:57:39Z",
+      "updated_at": "2026-06-04T11:12:21Z",
+      "matched_keywords": [
+        "copilot"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent"
+      ],
+      "trend_score": 84.44,
+      "reason": "已有较高社区关注度；命中 agents, ai 等 AI 相关 topic；关键词覆盖 copilot；可归入 AI Coding, Agent 方向。"
+    },
+    {
+      "full_name": "firecrawl/firecrawl",
+      "html_url": "https://github.com/firecrawl/firecrawl",
+      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "stargazers_count": 127530,
+      "forks_count": 7607,
+      "watchers_count": 127530,
+      "open_issues_count": 370,
+      "language": "TypeScript",
+      "license_name": "AGPL-3.0",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search",
+        "crawler",
+        "data-extraction",
+        "html-to-markdown",
+        "llm",
+        "markdown",
+        "scraper",
+        "scraping",
+        "web-crawler",
+        "web-data",
+        "web-data-extraction",
+        "web-scraper",
+        "web-scraping",
+        "web-search",
+        "webscraping"
+      ],
+      "pushed_at": "2026-06-02T07:49:23Z",
+      "created_at": "2024-04-15T21:02:29Z",
+      "updated_at": "2026-06-02T12:58:11Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 84.06,
+      "reason": "已有较高社区关注度；命中 ai, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM 方向。"
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stargazers_count": 202926,
+      "forks_count": 31122,
+      "watchers_count": 202926,
+      "open_issues_count": 55,
+      "language": "JavaScript",
+      "license_name": "MIT",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "pushed_at": "2026-06-02T11:51:04Z",
+      "created_at": "2026-01-18T00:51:51Z",
+      "updated_at": "2026-06-02T12:58:48Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "AI Security",
+        "Agent",
+        "LLM",
+        "Memory"
+      ],
+      "trend_score": 83.7,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 llm；可归入 AI Security, Agent, LLM, Memory 方向。"
+    },
+    {
+      "full_name": "OpenHands/OpenHands",
+      "html_url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stargazers_count": 75659,
+      "forks_count": 9594,
+      "watchers_count": 75659,
+      "open_issues_count": 363,
+      "language": "Python",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
+      ],
+      "pushed_at": "2026-06-02T12:42:54Z",
+      "created_at": "2024-03-13T03:33:31Z",
+      "updated_at": "2026-06-02T12:51:07Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 83.58,
+      "reason": "已有较高社区关注度；命中 artificial-intelligence, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM 方向。"
+    },
+    {
+      "full_name": "ollama/ollama",
+      "html_url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "stargazers_count": 172921,
+      "forks_count": 16399,
+      "watchers_count": 172921,
+      "open_issues_count": 3303,
+      "language": "Go",
+      "license_name": "MIT",
+      "topics": [
+        "deepseek",
+        "gemma",
+        "gemma3",
+        "glm",
+        "go",
+        "golang",
+        "gpt-oss",
+        "llama",
+        "llama3",
+        "llm",
+        "llms",
+        "minimax",
+        "mistral",
+        "ollama",
+        "qwen"
+      ],
+      "pushed_at": "2026-06-02T00:28:12Z",
+      "created_at": "2023-06-26T19:39:32Z",
+      "updated_at": "2026-06-02T12:50:17Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Inference",
+        "LLM"
+      ],
+      "trend_score": 83.41,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Inference, LLM 方向。"
+    },
+    {
+      "full_name": "mudler/LocalAI",
+      "html_url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "stargazers_count": 46621,
+      "forks_count": 4128,
+      "watchers_count": 46621,
+      "open_issues_count": 181,
+      "language": "Go",
+      "license_name": "MIT",
+      "topics": [
+        "agents",
+        "ai",
+        "api",
+        "audio-generation",
+        "decentralized",
+        "distributed",
+        "image-generation",
+        "libp2p",
+        "llama",
+        "llm",
+        "mamba",
+        "mcp",
+        "musicgen",
+        "object-detection",
+        "rerank",
+        "stable-diffusion",
+        "text-generation",
+        "tts"
+      ],
+      "pushed_at": "2026-06-02T12:49:04Z",
+      "created_at": "2023-03-18T22:58:02Z",
+      "updated_at": "2026-06-02T12:49:07Z",
+      "matched_keywords": [
+        "llm",
+        "tts"
+      ],
+      "categories": [
+        "Agent",
+        "Audio",
+        "Diffusion",
+        "LLM",
+        "Speech",
+        "Video",
+        "Vision"
+      ],
+      "trend_score": 83.39,
+      "reason": "已有较高社区关注度；命中 agents, ai, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, Audio, Diffusion, LLM 方向。"
+    },
+    {
+      "full_name": "bytedance/deer-flow",
+      "html_url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stargazers_count": 70271,
+      "forks_count": 9484,
+      "watchers_count": 70271,
+      "open_issues_count": 927,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "ai-agents",
+        "deep-research",
+        "harness",
+        "langchain",
+        "langgraph",
+        "langmanus",
+        "llm",
+        "multi-agent",
+        "nodejs",
+        "podcast",
+        "python",
+        "superagent",
+        "typescript"
+      ],
+      "pushed_at": "2026-06-02T02:03:29Z",
+      "created_at": "2025-05-07T02:50:19Z",
+      "updated_at": "2026-06-02T12:51:57Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM",
+        "RAG",
+        "Workflow"
+      ],
+      "trend_score": 83.33,
+      "reason": "已有较高社区关注度；命中 ai, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM, RAG, Workflow 方向。"
+    },
+    {
+      "full_name": "browser-use/browser-use",
+      "html_url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stargazers_count": 96683,
+      "forks_count": 10828,
+      "watchers_count": 96683,
+      "open_issues_count": 250,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm",
+        "playwright",
+        "python"
+      ],
+      "pushed_at": "2026-06-01T18:49:47Z",
+      "created_at": "2024-10-31T16:00:56Z",
+      "updated_at": "2026-06-02T12:56:28Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "Automation",
+        "LLM"
+      ],
+      "trend_score": 82.71,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, Automation, LLM 方向。"
+    },
+    {
+      "full_name": "leejet/stable-diffusion.cpp",
+      "html_url": "https://github.com/leejet/stable-diffusion.cpp",
+      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "stargazers_count": 6201,
+      "forks_count": 646,
+      "watchers_count": 6201,
+      "open_issues_count": 411,
+      "language": "C++",
+      "license_name": "MIT",
+      "topics": [
+        "ai",
+        "cplusplus",
+        "diffusion",
+        "flux",
+        "flux-dev",
+        "ggml",
+        "image-generation",
+        "image2image",
+        "img2img",
+        "latent-diffusion",
+        "ltx-video",
+        "qwen-image",
+        "stable-diffusion",
+        "text2image",
+        "txt2img",
+        "videogeneration",
+        "wan",
+        "z-image",
+        "z-image-turbo"
+      ],
+      "pushed_at": "2026-06-08T13:56:15Z",
+      "created_at": "2023-08-13T07:36:51Z",
+      "updated_at": "2026-06-08T14:21:51Z",
+      "matched_keywords": [
+        "diffusion",
+        "flux",
+        "stable diffusion"
+      ],
+      "categories": [
+        "Diffusion",
+        "Inference",
+        "LLM",
+        "Video"
+      ],
+      "trend_score": 82.45,
+      "reason": "社区关注度正在形成规模；命中 ai, diffusion 等 AI 相关 topic；关键词覆盖 diffusion, flux, stable diffusion；可归入 Diffusion, Inference, LLM, Video 方向。"
+    },
+    {
+      "full_name": "TauricResearch/TradingAgents",
+      "html_url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stargazers_count": 82196,
+      "forks_count": 15954,
+      "watchers_count": 82196,
+      "open_issues_count": 303,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "pushed_at": "2026-06-01T02:02:48Z",
+      "created_at": "2024-12-28T03:31:08Z",
+      "updated_at": "2026-06-02T12:57:57Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 82.35,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM 方向。"
+    },
+    {
+      "full_name": "yamadashy/repomix",
+      "html_url": "https://github.com/yamadashy/repomix",
+      "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+      "stargazers_count": 25870,
+      "forks_count": 1338,
+      "watchers_count": 25870,
+      "open_issues_count": 161,
+      "language": "TypeScript",
+      "license_name": "MIT",
+      "topics": [
+        "ai",
+        "anthropic",
+        "artificial-intelligence",
+        "chatbot",
+        "chatgpt",
+        "claude",
+        "deepseek",
+        "developer-tools",
+        "gemini",
+        "genai",
+        "generative-ai",
+        "gpt",
+        "javascript",
+        "language-model",
+        "llama",
+        "llm",
+        "mcp",
+        "nodejs",
+        "openai",
+        "typescript"
+      ],
+      "pushed_at": "2026-06-02T03:59:07Z",
+      "created_at": "2024-07-13T07:11:32Z",
+      "updated_at": "2026-06-02T12:57:34Z",
+      "matched_keywords": [
+        "language model",
+        "large language model"
+      ],
+      "categories": [
+        "LLM"
+      ],
+      "trend_score": 82.14,
+      "reason": "已有较高社区关注度；命中 ai, artificial-intelligence, generative-ai, llm 等 AI 相关 topic；关键词覆盖 language model, large language model；可归入 LLM 方向。"
+    },
+    {
+      "full_name": "m-bain/whisperX",
+      "html_url": "https://github.com/m-bain/whisperX",
+      "description": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
+      "stargazers_count": 22262,
+      "forks_count": 2291,
+      "watchers_count": 22262,
+      "open_issues_count": 196,
+      "language": "Python",
+      "license_name": "BSD-2-Clause",
+      "topics": [
+        "asr",
+        "speech",
+        "speech-recognition",
+        "speech-to-text",
+        "whisper"
+      ],
+      "pushed_at": "2026-06-03T07:41:25Z",
+      "created_at": "2022-12-09T02:34:23Z",
+      "updated_at": "2026-06-04T10:41:35Z",
+      "matched_keywords": [
+        "asr",
+        "speech recognition",
+        "whisper"
+      ],
+      "categories": [
+        "Audio",
+        "Speech"
+      ],
+      "trend_score": 81.71,
+      "reason": "已有较高社区关注度；关键词覆盖 asr, speech recognition, whisper；可归入 Audio, Speech 方向。"
+    },
+    {
+      "full_name": "langfuse/langfuse",
+      "html_url": "https://github.com/langfuse/langfuse",
+      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+      "stargazers_count": 28368,
+      "forks_count": 2929,
+      "watchers_count": 28368,
+      "open_issues_count": 658,
+      "language": "TypeScript",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "analytics",
+        "autogen",
+        "evaluation",
+        "langchain",
+        "large-language-models",
+        "llama-index",
+        "llm",
+        "llm-evaluation",
+        "llm-observability",
+        "llmops",
+        "monitoring",
+        "observability",
+        "open-source",
+        "openai",
+        "playground",
+        "prompt-engineering",
+        "prompt-management",
+        "self-hosted",
+        "ycombinator"
+      ],
+      "pushed_at": "2026-06-02T12:56:23Z",
+      "created_at": "2023-05-18T17:47:09Z",
+      "updated_at": "2026-06-02T12:56:25Z",
+      "matched_keywords": [
+        "eval",
+        "llm",
+        "open source llm"
+      ],
+      "categories": [
+        "Agent",
+        "Dataset",
+        "Evaluation",
+        "LLM",
+        "MLOps",
+        "Prompt Engineering"
+      ],
+      "trend_score": 81.6,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 eval, open source llm；可归入 Agent, Dataset, Evaluation, LLM 方向。"
+    },
+    {
+      "full_name": "shareAI-lab/learn-claude-code",
+      "html_url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+      "stargazers_count": 64250,
+      "forks_count": 10502,
+      "watchers_count": 64250,
+      "open_issues_count": 73,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "agent",
+        "agent-development",
+        "ai-agent",
+        "claude",
+        "claude-code",
+        "educational",
+        "llm",
+        "python",
+        "teaching",
+        "tutorial"
+      ],
+      "pushed_at": "2026-05-31T14:22:38Z",
+      "created_at": "2025-06-29T15:34:15Z",
+      "updated_at": "2026-06-02T12:55:16Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 81.44,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM 方向。"
+    },
+    {
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "stargazers_count": 77665,
+      "forks_count": 11014,
+      "watchers_count": 77665,
+      "open_issues_count": 22,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "ai",
+        "automation",
+        "chatgpt",
+        "moviepy",
+        "python",
+        "shortvideo",
+        "tiktok"
+      ],
+      "pushed_at": "2026-06-02T09:41:44Z",
+      "created_at": "2024-03-11T02:57:34Z",
+      "updated_at": "2026-06-02T12:58:36Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Automation",
+        "LLM",
+        "Video"
+      ],
+      "trend_score": 80.67,
+      "reason": "已有较高社区关注度；命中 ai 等 AI 相关 topic；关键词覆盖 llm；可归入 Automation, LLM, Video 方向。"
+    },
+    {
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stargazers_count": 57762,
+      "forks_count": 3545,
+      "watchers_count": 57762,
+      "open_issues_count": 1043,
+      "language": "Rust",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "agentic-coding",
+        "ai-coding",
+        "anthropic",
+        "claude-code",
+        "cli",
+        "command-line-tool",
+        "cost-reduction",
+        "developer-tools",
+        "llm",
+        "open-source",
+        "productivity",
+        "rust",
+        "token-optimization"
+      ],
+      "pushed_at": "2026-06-01T16:51:19Z",
+      "created_at": "2026-01-22T16:54:16Z",
+      "updated_at": "2026-06-02T12:50:33Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 80.39,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 llm；可归入 AI Coding, Agent, LLM 方向。"
+    },
+    {
+      "full_name": "bitsandbytes-foundation/bitsandbytes",
+      "html_url": "https://github.com/bitsandbytes-foundation/bitsandbytes",
+      "description": "Accessible large language models via k-bit quantization for PyTorch.",
+      "stargazers_count": 8250,
+      "forks_count": 859,
+      "watchers_count": 8250,
+      "open_issues_count": 46,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "llm",
+        "machine-learning",
+        "pytorch",
+        "qlora",
+        "quantization"
+      ],
+      "pushed_at": "2026-06-02T02:38:02Z",
+      "created_at": "2021-06-04T00:10:34Z",
+      "updated_at": "2026-06-02T12:51:16Z",
+      "matched_keywords": [
+        "bitsandbytes",
+        "language model",
+        "large language model"
+      ],
+      "categories": [
+        "Fine-tuning",
+        "LLM",
+        "Quantization"
+      ],
+      "trend_score": 80.35,
+      "reason": "社区关注度正在形成规模；命中 llm, machine-learning 等 AI 相关 topic；关键词覆盖 bitsandbytes, language model, large language model；可归入 Fine-tuning, LLM, Quantization 方向。"
+    },
+    {
+      "full_name": "thedotmack/claude-mem",
+      "html_url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stargazers_count": 80587,
+      "forks_count": 6938,
+      "watchers_count": 80587,
+      "open_issues_count": 158,
+      "language": "TypeScript",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "anthropic",
+        "artificial-intelligence",
+        "chromadb",
+        "claude",
+        "claude-agent-sdk",
+        "claude-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "embeddings",
+        "long-term-memory",
+        "mem0",
+        "memory-engine",
+        "openmemory",
+        "rag",
+        "sqlite",
+        "supermemory"
+      ],
+      "pushed_at": "2026-06-03T08:39:38Z",
+      "created_at": "2025-08-31T20:50:03Z",
+      "updated_at": "2026-06-04T11:22:01Z",
+      "matched_keywords": [
+        "copilot"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent",
+        "Embedding",
+        "Long Context",
+        "Memory",
+        "RAG",
+        "Vector Database"
+      ],
+      "trend_score": 80.11,
+      "reason": "已有较高社区关注度；命中 ai, artificial-intelligence, rag 等 AI 相关 topic；关键词覆盖 copilot；可归入 AI Coding, Agent, Embedding, Long Context 方向。"
+    },
+    {
+      "full_name": "github/spec-kit",
+      "html_url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stargazers_count": 108244,
+      "forks_count": 9579,
+      "watchers_count": 108244,
+      "open_issues_count": 419,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "ai",
+        "copilot",
+        "development",
+        "engineering",
+        "prd",
+        "spec",
+        "spec-driven"
+      ],
+      "pushed_at": "2026-06-03T22:44:30Z",
+      "created_at": "2025-08-21T22:54:31Z",
+      "updated_at": "2026-06-04T11:34:17Z",
+      "matched_keywords": [
+        "copilot"
+      ],
+      "categories": [
+        "AI Coding"
+      ],
+      "trend_score": 79.6,
+      "reason": "已有较高社区关注度；命中 ai 等 AI 相关 topic；关键词覆盖 copilot；可归入 AI Coding 方向。"
+    },
+    {
+      "full_name": "PaddlePaddle/PaddleOCR",
+      "html_url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stargazers_count": 79298,
+      "forks_count": 10552,
+      "watchers_count": 79298,
+      "open_issues_count": 209,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "ai4science",
+        "chineseocr",
+        "document-parsing",
+        "document-translation",
+        "kie",
+        "ocr",
+        "paddleocr-vl",
+        "pdf-extractor-rag",
+        "pdf-parser",
+        "pdf2markdown",
+        "pp-ocr",
+        "pp-structure",
+        "rag"
+      ],
+      "pushed_at": "2026-06-01T21:43:13Z",
+      "created_at": "2020-05-08T10:38:16Z",
+      "updated_at": "2026-06-02T12:55:55Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "LLM",
+        "RAG",
+        "Vision"
+      ],
+      "trend_score": 79.47,
+      "reason": "已有较高社区关注度；命中 rag 等 AI 相关 topic；关键词覆盖 llm；可归入 LLM, RAG, Vision 方向。"
+    },
+    {
+      "full_name": "mlflow/mlflow",
+      "html_url": "https://github.com/mlflow/mlflow",
+      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "stargazers_count": 26249,
+      "forks_count": 5812,
+      "watchers_count": 26249,
+      "open_issues_count": 2067,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "agentops",
+        "agents",
+        "ai",
+        "ai-governance",
+        "apache-spark",
+        "evaluation",
+        "langchain",
+        "llm-evaluation",
+        "llmops",
+        "machine-learning",
+        "ml",
+        "mlflow",
+        "mlops",
+        "model-management",
+        "observability",
+        "open-source",
+        "openai",
+        "prompt-engineering"
+      ],
+      "pushed_at": "2026-06-02T12:50:42Z",
+      "created_at": "2018-06-05T16:05:58Z",
+      "updated_at": "2026-06-02T12:50:47Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "Evaluation",
+        "LLM",
+        "MLOps"
+      ],
+      "trend_score": 79.16,
+      "reason": "已有较高社区关注度；命中 agents, ai, machine-learning 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, Evaluation, LLM, MLOps 方向。"
+    },
+    {
+      "full_name": "opendatalab/MinerU",
+      "html_url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "stargazers_count": 66097,
+      "forks_count": 5569,
+      "watchers_count": 66097,
+      "open_issues_count": 20,
+      "language": "Python",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "ai4science",
+        "document-analysis",
+        "docx",
+        "extract-data",
+        "layout-analysis",
+        "ocr",
+        "parser",
+        "pdf",
+        "pdf-converter",
+        "pdf-extractor-llm",
+        "pdf-extractor-pretrain",
+        "pdf-extractor-rag",
+        "pdf-parser",
+        "pptx",
+        "python",
+        "xlsx"
+      ],
+      "pushed_at": "2026-06-02T11:44:49Z",
+      "created_at": "2024-02-29T08:52:34Z",
+      "updated_at": "2026-06-02T12:55:10Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM",
+        "RAG",
+        "Vision",
+        "Workflow"
+      ],
+      "trend_score": 79.06,
+      "reason": "已有较高社区关注度；关键词覆盖 llm；可归入 Agent, LLM, RAG, Vision 方向。"
+    },
+    {
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "stargazers_count": 40582,
+      "forks_count": 38855,
+      "watchers_count": 40582,
+      "open_issues_count": 35,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "a-stock",
+        "ai-agent",
+        "aigc",
+        "llm",
+        "quant",
+        "quantitative-finance",
+        "quantitative-trading"
+      ],
+      "pushed_at": "2026-06-04T11:33:39Z",
+      "created_at": "2026-01-10T06:43:20Z",
+      "updated_at": "2026-06-04T11:36:16Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 78.76,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM 方向。"
+    },
+    {
+      "full_name": "safishamsi/graphify",
+      "html_url": "https://github.com/safishamsi/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "stargazers_count": 59120,
+      "forks_count": 6162,
+      "watchers_count": 59120,
+      "open_issues_count": 287,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "antigravity",
+        "claude-code",
+        "codex",
+        "gemini",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "openclaw",
+        "rag",
+        "skills",
+        "tree-sitter"
+      ],
+      "pushed_at": "2026-06-03T22:08:56Z",
+      "created_at": "2026-04-03T15:49:07Z",
+      "updated_at": "2026-06-04T11:37:10Z",
+      "matched_keywords": [
+        "ai coding",
+        "coding assistant"
+      ],
+      "categories": [
+        "AI Coding",
+        "Knowledge Graph",
+        "RAG",
+        "Video"
+      ],
+      "trend_score": 78.65,
+      "reason": "已有较高社区关注度；命中 rag 等 AI 相关 topic；关键词覆盖 ai coding, coding assistant；可归入 AI Coding, Knowledge Graph, RAG, Video 方向。"
+    },
+    {
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stargazers_count": 29601,
+      "forks_count": 4822,
+      "watchers_count": 29601,
+      "open_issues_count": 56,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "computer-vision",
+        "course",
+        "deep-learning",
+        "from-scratch",
+        "generative-ai",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "nlp",
+        "python",
+        "reinforcement-learning",
+        "rust",
+        "swarm-intelligence",
+        "transformers",
+        "tutorial",
+        "typescript"
+      ],
+      "pushed_at": "2026-06-07T09:58:57Z",
+      "created_at": "2026-03-18T18:38:02Z",
+      "updated_at": "2026-06-07T10:12:56Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM",
+        "Vision"
+      ],
+      "trend_score": 78.54,
+      "reason": "已有较高社区关注度；命中 agents, ai, computer-vision, deep-learning 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM, Vision 方向。"
+    },
+    {
+      "full_name": "ray-project/ray",
+      "html_url": "https://github.com/ray-project/ray",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "stargazers_count": 42807,
+      "forks_count": 7664,
+      "watchers_count": 42807,
+      "open_issues_count": 3441,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "data-science",
+        "deep-learning",
+        "deployment",
+        "distributed",
+        "hyperparameter-optimization",
+        "hyperparameter-search",
+        "large-language-models",
+        "llm",
+        "llm-inference",
+        "llm-serving",
+        "machine-learning",
+        "optimization",
+        "parallel",
+        "python",
+        "pytorch",
+        "ray",
+        "reinforcement-learning",
+        "rllib",
+        "serving",
+        "tensorflow"
+      ],
+      "pushed_at": "2026-06-08T14:36:48Z",
+      "created_at": "2016-10-25T19:38:30Z",
+      "updated_at": "2026-06-08T14:39:46Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "AI Infra",
+        "Inference",
+        "LLM",
+        "Serving"
+      ],
+      "trend_score": 78.27,
+      "reason": "已有较高社区关注度；命中 deep-learning, llm, machine-learning 等 AI 相关 topic；关键词覆盖 llm；可归入 AI Infra, Inference, LLM, Serving 方向。"
+    },
+    {
+      "full_name": "rohitg00/agentmemory",
+      "html_url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "stargazers_count": 21108,
+      "forks_count": 1743,
+      "watchers_count": 21108,
+      "open_issues_count": 227,
+      "language": "TypeScript",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "agentmemory",
+        "agents",
+        "ai",
+        "claude",
+        "claudecode",
+        "codex",
+        "copilot",
+        "cursor",
+        "genai",
+        "harness",
+        "hermes",
+        "memory",
+        "openclaw"
+      ],
+      "pushed_at": "2026-06-04T09:28:23Z",
+      "created_at": "2026-02-25T07:32:52Z",
+      "updated_at": "2026-06-04T11:34:26Z",
+      "matched_keywords": [
+        "ai coding",
+        "benchmark",
+        "code agent",
+        "copilot"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent",
+        "Benchmark",
+        "Evaluation",
+        "Memory"
+      ],
+      "trend_score": 77.98,
+      "reason": "已有较高社区关注度；命中 agents, ai 等 AI 相关 topic；关键词覆盖 ai coding, code agent, copilot；可归入 AI Coding, Agent, Benchmark, Memory 方向。"
+    },
+    {
+      "full_name": "ggml-org/llama.cpp",
+      "html_url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "stargazers_count": 114268,
+      "forks_count": 19060,
+      "watchers_count": 114268,
+      "open_issues_count": 1717,
+      "language": "C++",
+      "license_name": "MIT",
+      "topics": [
+        "ggml"
+      ],
+      "pushed_at": "2026-06-02T12:14:56Z",
+      "created_at": "2023-03-10T18:58:00Z",
+      "updated_at": "2026-06-02T12:57:20Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Inference",
+        "LLM"
+      ],
+      "trend_score": 77.75,
+      "reason": "已有较高社区关注度；关键词覆盖 llm；可归入 Inference, LLM 方向。"
+    },
+    {
+      "full_name": "mastra-ai/mastra",
+      "html_url": "https://github.com/mastra-ai/mastra",
+      "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
+      "stargazers_count": 24747,
+      "forks_count": 2194,
+      "watchers_count": 24747,
+      "open_issues_count": 377,
+      "language": "TypeScript",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "agents",
+        "ai",
+        "chatbots",
+        "evals",
+        "javascript",
+        "llm",
+        "mcp",
+        "nextjs",
+        "nodejs",
+        "reactjs",
+        "tts",
+        "typescript",
+        "workflows"
+      ],
+      "pushed_at": "2026-06-04T11:22:47Z",
+      "created_at": "2024-08-06T20:44:31Z",
+      "updated_at": "2026-06-04T11:22:26Z",
+      "matched_keywords": [
+        "llm",
+        "tts"
+      ],
+      "categories": [
+        "Agent",
+        "Audio",
+        "Evaluation",
+        "LLM",
+        "Speech",
+        "Workflow"
+      ],
+      "trend_score": 77.73,
+      "reason": "已有较高社区关注度；命中 agents, ai, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, Evaluation, LLM, Speech 方向。"
+    },
+    {
+      "full_name": "Zackriya-Solutions/meetily",
+      "html_url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.  ",
+      "stargazers_count": 12510,
+      "forks_count": 1295,
+      "watchers_count": 12510,
+      "open_issues_count": 207,
+      "language": "Rust",
+      "license_name": "MIT",
+      "topics": [
+        "ai",
+        "ai-meeting-assistant",
+        "llm",
+        "local-ai",
+        "mac",
+        "meeting-minutes",
+        "meeting-notes",
+        "offline-first",
+        "ollama",
+        "parakeet",
+        "privacy-focused",
+        "privacy-tools",
+        "rust",
+        "self-hosted",
+        "sortformer",
+        "speech-to-text",
+        "transcription",
+        "whisper",
+        "whisper-cpp",
+        "windows"
+      ],
+      "pushed_at": "2026-06-04T10:03:21Z",
+      "created_at": "2024-12-26T12:52:14Z",
+      "updated_at": "2026-06-04T11:22:08Z",
+      "matched_keywords": [
+        "speaker diarization",
+        "whisper"
+      ],
+      "categories": [
+        "AI Security",
+        "Audio",
+        "Inference",
+        "LLM",
+        "Speech"
+      ],
+      "trend_score": 77.64,
+      "reason": "已有较高社区关注度；命中 ai, llm 等 AI 相关 topic；关键词覆盖 speaker diarization, whisper；可归入 AI Security, Audio, Inference, LLM 方向。"
+    },
+    {
+      "full_name": "Unstructured-IO/unstructured",
+      "html_url": "https://github.com/Unstructured-IO/unstructured",
+      "description": "Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.",
+      "stargazers_count": 14823,
+      "forks_count": 1242,
+      "watchers_count": 14823,
+      "open_issues_count": 245,
+      "language": "HTML",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "data-pipelines",
+        "deep-learning",
+        "document-image-analysis",
+        "document-image-processing",
+        "document-parser",
+        "document-parsing",
+        "docx",
+        "donut",
+        "information-retrieval",
+        "langchain",
+        "llm",
+        "machine-learning",
+        "ml",
+        "natural-language-processing",
+        "nlp",
+        "ocr",
+        "pdf",
+        "pdf-to-json",
+        "pdf-to-text",
+        "preprocessing"
+      ],
+      "pushed_at": "2026-06-02T12:27:54Z",
+      "created_at": "2022-09-26T21:53:41Z",
+      "updated_at": "2026-06-02T12:41:42Z",
+      "matched_keywords": [
+        "language model"
+      ],
+      "categories": [
+        "Embedding",
+        "Evaluation",
+        "LLM",
+        "RAG",
+        "Vision",
+        "Workflow"
+      ],
+      "trend_score": 77.5,
+      "reason": "已有较高社区关注度；命中 deep-learning, llm, machine-learning, nlp 等 AI 相关 topic；关键词覆盖 language model；可归入 Embedding, Evaluation, LLM, RAG 方向。"
+    },
+    {
+      "full_name": "FurkanGozukara/Stable-Diffusion",
+      "html_url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+      "description": "FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, Kaggle, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya, Midjourney, RunPod",
+      "stargazers_count": 2717,
+      "forks_count": 366,
+      "watchers_count": 2717,
+      "open_issues_count": 18,
+      "language": "JavaScript",
+      "license_name": "GPL-3.0",
+      "topics": [
+        "ai-art",
+        "coding",
+        "deepfake-generation",
+        "dreambooth",
+        "education",
+        "flux-dev",
+        "flux-lora",
+        "generative-ai",
+        "guides",
+        "how-to",
+        "image-to-video-generation",
+        "kohya-webui",
+        "learning",
+        "lora-training",
+        "programming",
+        "stable-diffusion",
+        "text-to-image",
+        "text-to-video",
+        "tts",
+        "tutorials"
+      ],
+      "pushed_at": "2026-06-07T23:06:39Z",
+      "created_at": "2023-05-01T18:36:11Z",
+      "updated_at": "2026-06-07T23:06:44Z",
+      "matched_keywords": [
+        "comfyui",
+        "controlnet",
+        "diffusion",
+        "dreambooth",
+        "flux",
+        "stable diffusion"
+      ],
+      "categories": [
+        "AI Coding",
+        "Audio",
+        "Diffusion",
+        "Fine-tuning",
+        "Speech",
+        "Video"
+      ],
+      "trend_score": 77.28,
+      "reason": "社区关注度正在形成规模；命中 generative-ai 等 AI 相关 topic；关键词覆盖 comfyui, controlnet, diffusion, dreambooth, flux；可归入 AI Coding, Audio, Diffusion, Fine-tuning 方向。"
+    },
+    {
+      "full_name": "AstrBotDevs/AstrBot",
+      "html_url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stargazers_count": 34043,
+      "forks_count": 2337,
+      "watchers_count": 34043,
+      "open_issues_count": 1263,
+      "language": "Python",
+      "license_name": "AGPL-3.0",
+      "topics": [
+        "agent",
+        "ai",
+        "chatbot",
+        "chatgpt",
+        "discord",
+        "docker",
+        "gemini",
+        "gpt",
+        "llama",
+        "llm",
+        "mcp",
+        "openai",
+        "python",
+        "qq",
+        "qqbot",
+        "telegram"
+      ],
+      "pushed_at": "2026-06-07T10:10:51Z",
+      "created_at": "2022-12-08T13:27:46Z",
+      "updated_at": "2026-06-07T10:10:55Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 76.77,
+      "reason": "已有较高社区关注度；命中 ai, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM 方向。"
+    },
+    {
+      "full_name": "invoke-ai/InvokeAI",
+      "html_url": "https://github.com/invoke-ai/InvokeAI",
+      "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
+      "stargazers_count": 27389,
+      "forks_count": 2875,
+      "watchers_count": 27389,
+      "open_issues_count": 453,
+      "language": "TypeScript",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "ai-art",
+        "artificial-intelligence",
+        "generative-art",
+        "image-generation",
+        "img2img",
+        "inpainting",
+        "latent-diffusion",
+        "linux",
+        "macos",
+        "outpainting",
+        "stable-diffusion",
+        "txt2img",
+        "windows"
+      ],
+      "pushed_at": "2026-06-07T07:44:09Z",
+      "created_at": "2022-08-17T01:04:27Z",
+      "updated_at": "2026-06-08T14:21:29Z",
+      "matched_keywords": [
+        "diffusion",
+        "stable diffusion"
+      ],
+      "categories": [
+        "Diffusion"
+      ],
+      "trend_score": 76.65,
+      "reason": "已有较高社区关注度；命中 artificial-intelligence 等 AI 相关 topic；关键词覆盖 diffusion, stable diffusion；可归入 Diffusion 方向。"
+    },
+    {
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stargazers_count": 43815,
+      "forks_count": 7747,
+      "watchers_count": 43815,
+      "open_issues_count": 863,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "codex-cli",
+        "llm",
+        "nanobot",
+        "openai",
+        "openclaw"
+      ],
+      "pushed_at": "2026-06-07T10:02:39Z",
+      "created_at": "2026-02-01T07:16:15Z",
+      "updated_at": "2026-06-07T10:02:44Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM",
+        "Workflow"
+      ],
+      "trend_score": 76.56,
+      "reason": "已有较高社区关注度；命中 ai, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM, Workflow 方向。"
+    },
+    {
+      "full_name": "logancyang/obsidian-copilot",
+      "html_url": "https://github.com/logancyang/obsidian-copilot",
+      "description": "THE Copilot in Obsidian",
+      "stargazers_count": 7148,
+      "forks_count": 661,
+      "watchers_count": 7148,
+      "open_issues_count": 215,
+      "language": "TypeScript",
+      "license_name": "AGPL-3.0",
+      "topics": [
+        "ai",
+        "aiagent",
+        "chatgpt",
+        "copilot",
+        "obsidian-plugin"
+      ],
+      "pushed_at": "2026-06-04T10:29:23Z",
+      "created_at": "2023-03-31T00:15:29Z",
+      "updated_at": "2026-06-04T09:07:30Z",
+      "matched_keywords": [
+        "copilot"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent"
+      ],
+      "trend_score": 76.32,
+      "reason": "社区关注度正在形成规模；命中 ai 等 AI 相关 topic；关键词覆盖 copilot；可归入 AI Coding, Agent 方向。"
+    },
+    {
+      "full_name": "nexu-io/open-design",
+      "html_url": "https://github.com/nexu-io/open-design",
+      "description": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
+      "stargazers_count": 58499,
+      "forks_count": 6600,
+      "watchers_count": 58499,
+      "open_issues_count": 324,
+      "language": "TypeScript",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-design",
+        "byok",
+        "claude-code-for-design",
+        "claude-design",
+        "codex-design",
+        "coding-agents",
+        "cursor-design",
+        "design-systems",
+        "design-tools",
+        "desktop-app",
+        "figma-alternative",
+        "generative-ai",
+        "hermes-agent",
+        "local-first",
+        "no-code",
+        "prototyping",
+        "ui-generator",
+        "vibe-coding"
+      ],
+      "pushed_at": "2026-06-04T11:28:08Z",
+      "created_at": "2026-04-28T04:25:20Z",
+      "updated_at": "2026-06-04T11:35:32Z",
+      "matched_keywords": [
+        "copilot"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent",
+        "LLM",
+        "Video"
+      ],
+      "trend_score": 75.94,
+      "reason": "已有较高社区关注度；命中 generative-ai 等 AI 相关 topic；关键词覆盖 copilot；可归入 AI Coding, Agent, LLM, Video 方向。"
+    },
+    {
+      "full_name": "LykosAI/StabilityMatrix",
+      "html_url": "https://github.com/LykosAI/StabilityMatrix",
+      "description": "Multi-Platform Package Manager for Stable Diffusion",
+      "stargazers_count": 8307,
+      "forks_count": 565,
+      "watchers_count": 8307,
+      "open_issues_count": 173,
+      "language": "C#",
+      "license_name": "AGPL-3.0",
+      "topics": [
+        "ai",
+        "automatic1111",
+        "avalonia",
+        "comfyui",
+        "dotnet",
+        "python",
+        "sd-webui",
+        "stable-diffusion",
+        "text2image"
+      ],
+      "pushed_at": "2026-06-08T05:51:54Z",
+      "created_at": "2023-06-13T05:20:38Z",
+      "updated_at": "2026-06-08T13:33:53Z",
+      "matched_keywords": [
+        "comfyui",
+        "diffusion",
+        "stable diffusion"
+      ],
+      "categories": [
+        "Diffusion"
+      ],
+      "trend_score": 75.74,
+      "reason": "社区关注度正在形成规模；命中 ai 等 AI 相关 topic；关键词覆盖 comfyui, diffusion, stable diffusion；可归入 Diffusion 方向。"
+    },
+    {
+      "full_name": "neuml/txtai",
+      "html_url": "https://github.com/neuml/txtai",
+      "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "stargazers_count": 12622,
+      "forks_count": 827,
+      "watchers_count": 12622,
+      "open_issues_count": 9,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "embeddings",
+        "information-retrieval",
+        "language-model",
+        "large-language-models",
+        "llm",
+        "nlp",
+        "python",
+        "rag",
+        "retrieval-augmented-generation",
+        "search",
+        "search-engine",
+        "semantic-search",
+        "sentence-embeddings",
+        "transformers",
+        "txtai",
+        "vector-database",
+        "vector-search"
+      ],
+      "pushed_at": "2026-06-01T14:22:24Z",
+      "created_at": "2020-08-09T19:14:59Z",
+      "updated_at": "2026-06-02T09:22:23Z",
+      "matched_keywords": [
+        "language model"
+      ],
+      "categories": [
+        "Agent",
+        "Embedding",
+        "Evaluation",
+        "LLM",
+        "RAG",
+        "Workflow"
+      ],
+      "trend_score": 75.69,
+      "reason": "已有较高社区关注度；命中 agents, ai, llm, nlp 等 AI 相关 topic；关键词覆盖 language model；可归入 Agent, Embedding, Evaluation, LLM 方向。"
+    },
+    {
+      "full_name": "decolua/9router",
+      "html_url": "https://github.com/decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "stargazers_count": 16676,
+      "forks_count": 2516,
+      "watchers_count": 16676,
+      "open_issues_count": 649,
+      "language": "JavaScript",
+      "license_name": "MIT",
+      "topics": [
+        "ai-agents",
+        "ai-gateway",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "cline",
+        "codex",
+        "copilot",
+        "cursor",
+        "deepseek",
+        "free-ai",
+        "gemini",
+        "gemini-cli",
+        "llm",
+        "llm-gateway",
+        "openai",
+        "openai-proxy",
+        "qwen",
+        "token-saver"
+      ],
+      "pushed_at": "2026-06-06T09:18:08Z",
+      "created_at": "2026-01-05T02:59:30Z",
+      "updated_at": "2026-06-07T10:09:43Z",
+      "matched_keywords": [
+        "ai coding",
+        "copilot"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 75.61,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 ai coding, copilot；可归入 AI Coding, Agent, LLM 方向。"
+    },
+    {
+      "full_name": "modelscope/evalscope",
+      "html_url": "https://github.com/modelscope/evalscope",
+      "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
+      "stargazers_count": 2895,
+      "forks_count": 392,
+      "watchers_count": 2895,
+      "open_issues_count": 41,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "evaluation",
+        "llm",
+        "performance",
+        "rag",
+        "vlm"
+      ],
+      "pushed_at": "2026-06-05T09:53:06Z",
+      "created_at": "2023-12-07T06:10:49Z",
+      "updated_at": "2026-06-06T04:13:43Z",
+      "matched_keywords": [
+        "benchmark",
+        "eval"
+      ],
+      "categories": [
+        "Benchmark",
+        "Evaluation",
+        "LLM",
+        "Multimodal",
+        "RAG"
+      ],
+      "trend_score": 75.38,
+      "reason": "社区关注度正在形成规模；命中 llm, rag 等 AI 相关 topic；关键词覆盖 benchmark, eval；可归入 Benchmark, Evaluation, LLM, Multimodal 方向。"
+    },
+    {
+      "full_name": "HKUDS/LightRAG",
+      "html_url": "https://github.com/HKUDS/LightRAG",
+      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "stargazers_count": 36197,
+      "forks_count": 5114,
+      "watchers_count": 36197,
+      "open_issues_count": 226,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "genai",
+        "gpt",
+        "gpt-4",
+        "graphrag",
+        "knowledge-graph",
+        "large-language-models",
+        "llm",
+        "rag",
+        "retrieval-augmented-generation"
+      ],
+      "pushed_at": "2026-06-05T11:47:25Z",
+      "created_at": "2024-10-02T11:57:54Z",
+      "updated_at": "2026-06-05T11:46:51Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Evaluation",
+        "LLM",
+        "RAG"
+      ],
+      "trend_score": 75.35,
+      "reason": "已有较高社区关注度；命中 llm, rag 等 AI 相关 topic；关键词覆盖 llm；可归入 Evaluation, LLM, RAG 方向。"
+    },
+    {
+      "full_name": "Fission-AI/OpenSpec",
+      "html_url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "stargazers_count": 52789,
+      "forks_count": 3694,
+      "watchers_count": 52789,
+      "open_issues_count": 371,
+      "language": "TypeScript",
+      "license_name": "MIT",
+      "topics": [
+        "ai",
+        "context-engineering",
+        "engineering",
+        "planning",
+        "prd",
+        "sdd",
+        "sdlc",
+        "spec",
+        "spec-driven-development",
+        "specification"
+      ],
+      "pushed_at": "2026-06-03T09:36:11Z",
+      "created_at": "2025-08-05T10:37:45Z",
+      "updated_at": "2026-06-04T11:23:55Z",
+      "matched_keywords": [
+        "ai coding",
+        "coding assistant"
+      ],
+      "categories": [
+        "AI Coding",
+        "Long Context"
+      ],
+      "trend_score": 75.17,
+      "reason": "已有较高社区关注度；命中 ai 等 AI 相关 topic；关键词覆盖 ai coding, coding assistant；可归入 AI Coding, Long Context 方向。"
+    },
+    {
+      "full_name": "pnnbao97/VieNeu-TTS",
+      "html_url": "https://github.com/pnnbao97/VieNeu-TTS",
+      "description": "Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 24kHz audio quality • Chuyển văn bản thành giọng nói tiếng Việt • Text to speech tiếng Việt • TTS tiếng Việt ",
+      "stargazers_count": 1666,
+      "forks_count": 496,
+      "watchers_count": 1666,
+      "open_issues_count": 8,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "deep-learning",
+        "on-device-ml",
+        "real-time",
+        "speech-synthesis",
+        "text-to-speech",
+        "tts",
+        "vietnamese",
+        "vietnamese-language"
+      ],
+      "pushed_at": "2026-06-07T10:01:29Z",
+      "created_at": "2025-10-28T14:07:23Z",
+      "updated_at": "2026-06-07T10:11:44Z",
+      "matched_keywords": [
+        "text to speech",
+        "tts",
+        "voice cloning"
+      ],
+      "categories": [
+        "Audio",
+        "Inference",
+        "Speech"
+      ],
+      "trend_score": 75.06,
+      "reason": "社区关注度正在形成规模；命中 deep-learning 等 AI 相关 topic；关键词覆盖 text to speech, tts, voice cloning；可归入 Audio, Inference, Speech 方向。"
+    },
+    {
+      "full_name": "FluxML/Flux.jl",
+      "html_url": "https://github.com/FluxML/Flux.jl",
+      "description": "Relax! Flux is the ML library that doesn't make you tensor",
+      "stargazers_count": 4729,
+      "forks_count": 619,
+      "watchers_count": 4729,
+      "open_issues_count": 190,
+      "language": "Julia",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "data-science",
+        "deep-learning",
+        "flux",
+        "machine-learning",
+        "neural-networks",
+        "the-human-brain"
+      ],
+      "pushed_at": "2026-06-07T18:19:22Z",
+      "created_at": "2016-04-01T21:11:05Z",
+      "updated_at": "2026-06-07T18:05:04Z",
+      "matched_keywords": [
+        "flux"
+      ],
+      "categories": [
+        "Diffusion"
+      ],
+      "trend_score": 74.76,
+      "reason": "社区关注度正在形成规模；命中 deep-learning, machine-learning 等 AI 相关 topic；关键词覆盖 flux；可归入 Diffusion 方向。"
+    },
+    {
+      "full_name": "Tencent/WeKnora",
+      "html_url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "stargazers_count": 15912,
+      "forks_count": 2045,
+      "watchers_count": 15912,
+      "open_issues_count": 233,
+      "language": "Go",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "chatbot",
+        "embeddings",
+        "evaluation",
+        "generative-ai",
+        "golang",
+        "knowledge-base",
+        "llm",
+        "multi-tenant",
+        "multimodel",
+        "ollama",
+        "openai",
+        "question-answering",
+        "rag",
+        "reranking",
+        "semantic-search",
+        "vector-search",
+        "wiki"
+      ],
+      "pushed_at": "2026-06-02T10:50:52Z",
+      "created_at": "2025-07-22T08:01:23Z",
+      "updated_at": "2026-06-02T12:11:31Z",
+      "matched_keywords": [
+        "open source llm"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent",
+        "Embedding",
+        "Evaluation",
+        "Inference",
+        "LLM",
+        "RAG",
+        "Reasoning"
+      ],
+      "trend_score": 74.71,
+      "reason": "已有较高社区关注度；命中 ai, generative-ai, llm, rag 等 AI 相关 topic；关键词覆盖 open source llm；可归入 AI Coding, Agent, Embedding, Evaluation 方向。"
+    },
+    {
+      "full_name": "huggingface/peft",
+      "html_url": "https://github.com/huggingface/peft",
+      "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+      "stargazers_count": 21248,
+      "forks_count": 2325,
+      "watchers_count": 21248,
+      "open_issues_count": 49,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "adapter",
+        "diffusion",
+        "fine-tuning",
+        "llm",
+        "lora",
+        "parameter-efficient-learning",
+        "peft",
+        "python",
+        "pytorch",
+        "transformers"
+      ],
+      "pushed_at": "2026-06-08T12:17:19Z",
+      "created_at": "2022-11-25T03:51:09Z",
+      "updated_at": "2026-06-08T12:17:24Z",
+      "matched_keywords": [
+        "diffusion"
+      ],
+      "categories": [
+        "Diffusion",
+        "Fine-tuning",
+        "LLM"
+      ],
+      "trend_score": 74.33,
+      "reason": "已有较高社区关注度；命中 diffusion, llm, transformers 等 AI 相关 topic；关键词覆盖 diffusion；可归入 Diffusion, Fine-tuning, LLM 方向。"
+    },
+    {
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stargazers_count": 18642,
+      "forks_count": 1108,
+      "watchers_count": 18642,
+      "open_issues_count": 232,
+      "language": "Go",
+      "license_name": "MIT",
+      "topics": [
+        "agent",
+        "agent-framework",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "coding-agent",
+        "deepseek",
+        "developer-tools",
+        "ink",
+        "llm",
+        "prompt-caching",
+        "r1",
+        "terminal",
+        "tool-use",
+        "tui",
+        "typescript"
+      ],
+      "pushed_at": "2026-06-06T09:09:45Z",
+      "created_at": "2026-04-21T08:27:02Z",
+      "updated_at": "2026-06-06T09:09:27Z",
+      "matched_keywords": [
+        "ai coding",
+        "code agent",
+        "llm"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 74.12,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 ai coding, code agent, llm；可归入 AI Coding, Agent, LLM 方向。"
+    },
+    {
+      "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "html_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+      "stargazers_count": 11571,
+      "forks_count": 1070,
+      "watchers_count": 11571,
+      "open_issues_count": 49,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "ai-research",
+        "ai-tools",
+        "aris",
+        "autonomous-agent",
+        "claude",
+        "claude-code",
+        "claude-code-skills",
+        "codex",
+        "deep-learning",
+        "gpt",
+        "idea-generation",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "mcp-server",
+        "ml-research",
+        "openai",
+        "paper-review",
+        "paper-writing",
+        "research-automation"
+      ],
+      "pushed_at": "2026-06-07T10:03:14Z",
+      "created_at": "2026-03-10T07:31:45Z",
+      "updated_at": "2026-06-07T10:05:01Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "Automation",
+        "LLM"
+      ],
+      "trend_score": 74.11,
+      "reason": "已有较高社区关注度；命中 deep-learning, llm, machine-learning 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, Automation, LLM 方向。"
+    },
+    {
+      "full_name": "NirDiamant/Prompt_Engineering",
+      "html_url": "https://github.com/NirDiamant/Prompt_Engineering",
+      "description": "22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.",
+      "stargazers_count": 7556,
+      "forks_count": 975,
+      "watchers_count": 7556,
+      "open_issues_count": 3,
+      "language": "Jupyter Notebook",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "ai",
+        "chain-of-thought",
+        "chatgpt",
+        "claude",
+        "few-shot-learning",
+        "genai",
+        "generative-ai",
+        "gpt",
+        "in-context-learning",
+        "langchain",
+        "llm",
+        "llms",
+        "machine-learning",
+        "openai",
+        "prompt-engineering",
+        "prompting",
+        "python",
+        "tutorials"
+      ],
+      "pushed_at": "2026-05-31T11:47:43Z",
+      "created_at": "2024-10-10T08:52:12Z",
+      "updated_at": "2026-06-02T08:54:24Z",
+      "matched_keywords": [
+        "prompt engineering"
+      ],
+      "categories": [
+        "LLM",
+        "Long Context",
+        "Prompt Engineering",
+        "RAG"
+      ],
+      "trend_score": 74.09,
+      "reason": "社区关注度正在形成规模；命中 ai, generative-ai, llm, machine-learning 等 AI 相关 topic；关键词覆盖 prompt engineering；可归入 LLM, Long Context, Prompt Engineering, RAG 方向。"
+    },
+    {
+      "full_name": "mcmonkeyprojects/SwarmUI",
+      "html_url": "https://github.com/mcmonkeyprojects/SwarmUI",
+      "description": "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+      "stargazers_count": 4185,
+      "forks_count": 417,
+      "watchers_count": 4185,
+      "open_issues_count": 136,
+      "language": "C#",
+      "license_name": "MIT",
+      "topics": [
+        "ai",
+        "comfyui",
+        "csharp",
+        "image-generation",
+        "javascript",
+        "machine-learning",
+        "ml",
+        "python",
+        "stable-diffusion"
+      ],
+      "pushed_at": "2026-06-07T05:31:39Z",
+      "created_at": "2024-06-21T06:24:53Z",
+      "updated_at": "2026-06-08T14:13:55Z",
+      "matched_keywords": [
+        "comfyui",
+        "diffusion",
+        "stable diffusion"
+      ],
+      "categories": [
+        "Diffusion"
+      ],
+      "trend_score": 73.97,
+      "reason": "社区关注度正在形成规模；命中 ai, machine-learning 等 AI 相关 topic；关键词覆盖 comfyui, diffusion, stable diffusion；可归入 Diffusion 方向。"
+    },
+    {
+      "full_name": "AI4Finance-Foundation/FinGPT",
+      "html_url": "https://github.com/AI4Finance-Foundation/FinGPT",
+      "description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.",
+      "stargazers_count": 20373,
+      "forks_count": 2895,
+      "watchers_count": 20373,
+      "open_issues_count": 91,
+      "language": "Jupyter Notebook",
+      "license_name": "MIT",
+      "topics": [
+        "chatgpt",
+        "finance",
+        "fingpt",
+        "fintech",
+        "large-language-models",
+        "machine-learning",
+        "nlp",
+        "prompt-engineering",
+        "pytorch",
+        "reinforcement-learning",
+        "robo-advisor",
+        "sentiment-analysis",
+        "technical-analysis"
+      ],
+      "pushed_at": "2026-06-01T15:15:48Z",
+      "created_at": "2023-02-11T20:21:34Z",
+      "updated_at": "2026-06-02T12:56:11Z",
+      "matched_keywords": [
+        "language model",
+        "large language model"
+      ],
+      "categories": [
+        "LLM"
+      ],
+      "trend_score": 73.94,
+      "reason": "已有较高社区关注度；命中 machine-learning, nlp 等 AI 相关 topic；关键词覆盖 language model, large language model；可归入 LLM 方向。"
+    },
+    {
+      "full_name": "MemTensor/MemOS",
+      "html_url": "https://github.com/MemTensor/MemOS",
+      "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
+      "stargazers_count": 9551,
+      "forks_count": 866,
+      "watchers_count": 9551,
+      "open_issues_count": 223,
+      "language": "TypeScript",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "claude",
+        "hermes",
+        "llm",
+        "long-term-memory",
+        "mcp",
+        "memory",
+        "memory-management",
+        "multi-agent",
+        "openclaw",
+        "python",
+        "rag",
+        "self-evolving",
+        "self-hosted",
+        "skills",
+        "token-savings"
+      ],
+      "pushed_at": "2026-06-04T11:35:07Z",
+      "created_at": "2025-07-06T09:51:27Z",
+      "updated_at": "2026-06-04T11:30:09Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "Evaluation",
+        "LLM",
+        "Memory",
+        "RAG"
+      ],
+      "trend_score": 73.21,
+      "reason": "社区关注度正在形成规模；命中 ai, llm, rag 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, Evaluation, LLM, Memory 方向。"
+    },
+    {
+      "full_name": "Hmbown/CodeWhale",
+      "html_url": "https://github.com/Hmbown/CodeWhale",
+      "description": "DeepSeek + MiMo coding agent in terminal",
+      "stargazers_count": 37269,
+      "forks_count": 3203,
+      "watchers_count": 37269,
+      "open_issues_count": 455,
+      "language": "Rust",
+      "license_name": "MIT",
+      "topics": [
+        "cli",
+        "deepseek",
+        "llm",
+        "rust",
+        "terminal",
+        "tui"
+      ],
+      "pushed_at": "2026-06-06T09:11:39Z",
+      "created_at": "2026-01-19T18:21:01Z",
+      "updated_at": "2026-06-06T09:09:11Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 72.93,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 llm；可归入 AI Coding, Agent, LLM 方向。"
+    },
+    {
+      "full_name": "aaif-goose/goose",
+      "html_url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stargazers_count": 47910,
+      "forks_count": 5049,
+      "watchers_count": 47910,
+      "open_issues_count": 332,
+      "language": "Rust",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "pushed_at": "2026-06-08T14:39:34Z",
+      "created_at": "2024-08-23T19:03:36Z",
+      "updated_at": "2026-06-08T14:39:46Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 72.78,
+      "reason": "已有较高社区关注度；命中 ai 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM 方向。"
+    },
+    {
+      "full_name": "danny-avila/LibreChat",
+      "html_url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.",
+      "stargazers_count": 38239,
+      "forks_count": 7857,
+      "watchers_count": 38239,
+      "open_issues_count": 481,
+      "language": "TypeScript",
+      "license_name": "MIT",
+      "topics": [
+        "ai",
+        "anthropic",
+        "artifacts",
+        "aws",
+        "azure",
+        "chatgpt",
+        "chatgpt-clone",
+        "claude",
+        "clone",
+        "deepseek",
+        "gemini",
+        "google",
+        "gpt-5",
+        "librechat",
+        "mcp",
+        "o1",
+        "openai",
+        "responses-api",
+        "vision",
+        "webui"
+      ],
+      "pushed_at": "2026-06-06T02:03:55Z",
+      "created_at": "2023-02-12T01:06:52Z",
+      "updated_at": "2026-06-06T08:38:44Z",
+      "matched_keywords": [
+        "code interpreter"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent",
+        "LLM",
+        "Vision"
+      ],
+      "trend_score": 72.76,
+      "reason": "已有较高社区关注度；命中 ai 等 AI 相关 topic；关键词覆盖 code interpreter；可归入 AI Coding, Agent, LLM, Vision 方向。"
+    },
+    {
+      "full_name": "earendil-works/pi",
+      "html_url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "stargazers_count": 58874,
+      "forks_count": 7055,
+      "watchers_count": 58874,
+      "open_issues_count": 40,
+      "language": "TypeScript",
+      "license_name": "MIT",
+      "topics": [],
+      "pushed_at": "2026-06-02T11:54:58Z",
+      "created_at": "2025-08-09T14:03:50Z",
+      "updated_at": "2026-06-02T12:57:13Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent",
+        "Inference",
+        "LLM"
+      ],
+      "trend_score": 72.72,
+      "reason": "已有较高社区关注度；关键词覆盖 llm；可归入 AI Coding, Agent, Inference, LLM 方向。"
+    },
+    {
+      "full_name": "Skyvern-AI/skyvern",
+      "html_url": "https://github.com/Skyvern-AI/skyvern",
+      "description": "Automate browser based workflows with AI",
+      "stargazers_count": 21818,
+      "forks_count": 2033,
+      "watchers_count": 21818,
+      "open_issues_count": 164,
+      "language": "Python",
+      "license_name": "AGPL-3.0",
+      "topics": [
+        "ai",
+        "api",
+        "automation",
+        "browser",
+        "browser-automation",
+        "computer",
+        "gpt",
+        "llm",
+        "playwright",
+        "powerautomate",
+        "puppeteer",
+        "python",
+        "rpa",
+        "selenium",
+        "vision",
+        "workflow"
+      ],
+      "pushed_at": "2026-06-04T11:30:41Z",
+      "created_at": "2024-02-28T15:45:19Z",
+      "updated_at": "2026-06-04T11:30:44Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Automation",
+        "LLM",
+        "Vision",
+        "Workflow"
+      ],
+      "trend_score": 72.41,
+      "reason": "已有较高社区关注度；命中 ai, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Automation, LLM, Vision, Workflow 方向。"
+    },
+    {
+      "full_name": "unclecode/crawl4ai",
+      "html_url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "stargazers_count": 67603,
+      "forks_count": 6906,
+      "watchers_count": 67603,
+      "open_issues_count": 85,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [],
+      "pushed_at": "2026-06-01T14:44:47Z",
+      "created_at": "2024-05-09T09:48:50Z",
+      "updated_at": "2026-06-02T12:50:19Z",
+      "matched_keywords": [
+        "llm",
+        "open source llm"
+      ],
+      "categories": [
+        "LLM"
+      ],
+      "trend_score": 72.0,
+      "reason": "已有较高社区关注度；关键词覆盖 llm, open source llm；可归入 LLM 方向。"
+    },
+    {
+      "full_name": "alistaitsacle/free-llm-api-keys",
+      "html_url": "https://github.com/alistaitsacle/free-llm-api-keys",
+      "description": "Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.",
+      "stargazers_count": 1439,
+      "forks_count": 144,
+      "watchers_count": 1439,
+      "open_issues_count": 3,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "ai",
+        "api",
+        "api-key",
+        "api-keys",
+        "chatgpt",
+        "claude",
+        "deepseek",
+        "free",
+        "free-api",
+        "free-api-key",
+        "free-gpt",
+        "free-llm",
+        "gemini",
+        "gpt",
+        "gpt4",
+        "grok",
+        "large-language-models",
+        "llm",
+        "llm-api",
+        "openai"
+      ],
+      "pushed_at": "2026-06-02T12:52:24Z",
+      "created_at": "2026-03-23T03:28:17Z",
+      "updated_at": "2026-06-02T12:55:55Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "LLM"
+      ],
+      "trend_score": 72.0,
+      "reason": "社区关注度正在形成规模；命中 ai, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 LLM 方向。"
+    },
+    {
+      "full_name": "EvolvingLMMs-Lab/lmms-eval",
+      "html_url": "https://github.com/EvolvingLMMs-Lab/lmms-eval",
+      "description": "One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks",
+      "stargazers_count": 4197,
+      "forks_count": 600,
+      "watchers_count": 4197,
+      "open_issues_count": 38,
+      "language": "Python",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "agi",
+        "audio-evaluation",
+        "benchmark",
+        "evaluation",
+        "large-language-models",
+        "llm-evaluation",
+        "multimodal",
+        "multimodal-evaluation",
+        "video-understanding",
+        "vision-language-model",
+        "vlm"
+      ],
+      "pushed_at": "2026-06-05T02:09:21Z",
+      "created_at": "2024-03-07T12:09:25Z",
+      "updated_at": "2026-06-05T10:47:46Z",
+      "matched_keywords": [
+        "benchmark",
+        "eval"
+      ],
+      "categories": [
+        "Audio",
+        "Benchmark",
+        "Evaluation",
+        "LLM",
+        "Multimodal",
+        "Video",
+        "Vision"
+      ],
+      "trend_score": 71.86,
+      "reason": "社区关注度正在形成规模；关键词覆盖 benchmark, eval；可归入 Audio, Benchmark, Evaluation, LLM 方向。"
+    },
+    {
+      "full_name": "agentscope-ai/agentscope",
+      "html_url": "https://github.com/agentscope-ai/agentscope",
+      "description": "Build and run agents you can see, understand and trust.",
+      "stargazers_count": 26222,
+      "forks_count": 2920,
+      "watchers_count": 26222,
+      "open_issues_count": 278,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "agent",
+        "chatbot",
+        "large-language-models",
+        "llm",
+        "llm-agent",
+        "mcp",
+        "multi-agent",
+        "multi-modal",
+        "react-agent"
+      ],
+      "pushed_at": "2026-06-05T11:46:56Z",
+      "created_at": "2024-01-12T03:41:59Z",
+      "updated_at": "2026-06-05T11:47:03Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 71.72,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM 方向。"
+    },
+    {
+      "full_name": "p-e-w/heretic",
+      "html_url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "stargazers_count": 23743,
+      "forks_count": 2525,
+      "watchers_count": 23743,
+      "open_issues_count": 79,
+      "language": "Python",
+      "license_name": "AGPL-3.0",
+      "topics": [
+        "abliteration",
+        "llm",
+        "transformer"
+      ],
+      "pushed_at": "2026-06-04T12:50:47Z",
+      "created_at": "2025-09-21T05:46:16Z",
+      "updated_at": "2026-06-05T11:44:04Z",
+      "matched_keywords": [
+        "language model"
+      ],
+      "categories": [
+        "LLM"
+      ],
+      "trend_score": 71.61,
+      "reason": "已有较高社区关注度；命中 llm 等 AI 相关 topic；关键词覆盖 language model；可归入 LLM 方向。"
+    },
+    {
+      "full_name": "maximhq/bifrost",
+      "html_url": "https://github.com/maximhq/bifrost",
+      "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+      "stargazers_count": 5497,
+      "forks_count": 695,
+      "watchers_count": 5497,
+      "open_issues_count": 495,
+      "language": "Go",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "ai-gateway",
+        "gateway",
+        "gateway-services",
+        "generative-ai",
+        "guardrails",
+        "llm",
+        "llm-cost",
+        "llm-gateway",
+        "llm-observability",
+        "llmops",
+        "load-balancing",
+        "mcp-client",
+        "mcp-gateway",
+        "mcp-server",
+        "model-router",
+        "token-management"
+      ],
+      "pushed_at": "2026-06-05T11:45:12Z",
+      "created_at": "2025-03-19T07:21:26Z",
+      "updated_at": "2026-06-05T11:45:39Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "AI Security",
+        "LLM",
+        "MLOps"
+      ],
+      "trend_score": 71.43,
+      "reason": "社区关注度正在形成规模；命中 generative-ai, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 AI Security, LLM, MLOps 方向。"
+    },
+    {
+      "full_name": "xtekky/gpt4free",
+      "html_url": "https://github.com/xtekky/gpt4free",
+      "description": "The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3",
+      "stargazers_count": 66284,
+      "forks_count": 13578,
+      "watchers_count": 66284,
+      "open_issues_count": 10,
+      "language": "Python",
+      "license_name": "GPL-3.0",
+      "topics": [
+        "chatbot",
+        "chatbots",
+        "chatgpt",
+        "chatgpt-4",
+        "chatgpt-api",
+        "chatgpt-free",
+        "chatgpt4",
+        "deepseek",
+        "deepseek-api",
+        "deepseek-r1",
+        "gpt",
+        "gpt-4",
+        "gpt-4o",
+        "gpt4",
+        "gpt4-api",
+        "language-model",
+        "openai",
+        "openai-api",
+        "openai-chatgpt",
+        "reverse-engineering"
+      ],
+      "pushed_at": "2026-06-04T15:21:37Z",
+      "created_at": "2023-03-29T17:00:43Z",
+      "updated_at": "2026-06-05T11:41:20Z",
+      "matched_keywords": [
+        "language model"
+      ],
+      "categories": [
+        "LLM"
+      ],
+      "trend_score": 70.96,
+      "reason": "已有较高社区关注度；关键词覆盖 language model；可归入 LLM 方向。"
+    },
+    {
+      "full_name": "aliasrobotics/cai",
+      "html_url": "https://github.com/aliasrobotics/cai",
+      "description": "Cybersecurity AI (CAI), the framework for AI Security",
+      "stargazers_count": 8854,
+      "forks_count": 1305,
+      "watchers_count": 8854,
+      "open_issues_count": 43,
+      "language": "Python",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "artificial-intelligence",
+        "cybersecurity",
+        "framework",
+        "generative-ai",
+        "llm",
+        "pentesting"
+      ],
+      "pushed_at": "2026-06-05T11:44:30Z",
+      "created_at": "2025-03-31T08:56:05Z",
+      "updated_at": "2026-06-05T11:43:28Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "AI Security",
+        "LLM",
+        "Robotics",
+        "Speech"
+      ],
+      "trend_score": 70.8,
+      "reason": "社区关注度正在形成规模；命中 artificial-intelligence, generative-ai, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 AI Security, LLM, Robotics, Speech 方向。"
+    },
+    {
+      "full_name": "MochiDiffusion/MochiDiffusion",
+      "html_url": "https://github.com/MochiDiffusion/MochiDiffusion",
+      "description": "Run Stable Diffusion on Mac natively",
+      "stargazers_count": 7892,
+      "forks_count": 362,
+      "watchers_count": 7892,
+      "open_issues_count": 8,
+      "language": "Swift",
+      "license_name": "GPL-3.0",
+      "topics": [
+        "ane",
+        "apple",
+        "apple-silicon",
+        "coreml",
+        "macos",
+        "neural-engine",
+        "stable-diffusion",
+        "swift",
+        "swiftui"
+      ],
+      "pushed_at": "2026-06-07T00:12:17Z",
+      "created_at": "2022-12-15T16:30:56Z",
+      "updated_at": "2026-06-07T01:06:22Z",
+      "matched_keywords": [
+        "diffusion",
+        "stable diffusion"
+      ],
+      "categories": [
+        "Diffusion",
+        "On-device AI"
+      ],
+      "trend_score": 70.6,
+      "reason": "社区关注度正在形成规模；关键词覆盖 diffusion, stable diffusion；可归入 Diffusion, On-device AI 方向。"
+    },
+    {
+      "full_name": "NVlabs/Sana",
+      "html_url": "https://github.com/NVlabs/Sana",
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+      "stargazers_count": 8179,
+      "forks_count": 633,
+      "watchers_count": 8179,
+      "open_issues_count": 129,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "diffusion",
+        "dit",
+        "linear-transformer",
+        "nvfp4",
+        "pytorch",
+        "reinforcement-learning",
+        "sana",
+        "system-algorithm-deisgn",
+        "text-to-image-generation",
+        "text-to-video",
+        "transformers",
+        "video-generation",
+        "world-models"
+      ],
+      "pushed_at": "2026-06-08T10:48:47Z",
+      "created_at": "2024-10-11T20:19:45Z",
+      "updated_at": "2026-06-08T14:22:16Z",
+      "matched_keywords": [
+        "diffusion"
+      ],
+      "categories": [
+        "Diffusion",
+        "LLM",
+        "Robotics",
+        "Video"
+      ],
+      "trend_score": 70.46,
+      "reason": "社区关注度正在形成规模；命中 diffusion, transformers 等 AI 相关 topic；关键词覆盖 diffusion；可归入 Diffusion, LLM, Robotics, Video 方向。"
+    },
+    {
+      "full_name": "theopenco/llmgateway",
+      "html_url": "https://github.com/theopenco/llmgateway",
+      "description": "Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.",
+      "stargazers_count": 1277,
+      "forks_count": 143,
+      "watchers_count": 1277,
+      "open_issues_count": 55,
+      "language": "TypeScript",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "ai",
+        "ai-gateway",
+        "analytics",
+        "anthropic",
+        "api-key-management",
+        "claude",
+        "codex",
+        "enterprise",
+        "guardrails",
+        "inference",
+        "llm",
+        "llm-gateway",
+        "llm-proxy",
+        "llms",
+        "observability",
+        "openai",
+        "opencode",
+        "rate-limiting",
+        "typescript"
+      ],
+      "pushed_at": "2026-06-08T14:37:08Z",
+      "created_at": "2025-04-12T18:37:18Z",
+      "updated_at": "2026-06-08T14:38:17Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "AI Security",
+        "Inference",
+        "LLM",
+        "MLOps"
+      ],
+      "trend_score": 70.37,
+      "reason": "社区关注度正在形成规模；命中 ai, inference, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 AI Security, Inference, LLM, MLOps 方向。"
+    },
+    {
+      "full_name": "dotnet/BenchmarkDotNet",
+      "html_url": "https://github.com/dotnet/BenchmarkDotNet",
+      "description": "Powerful .NET library for benchmarking",
+      "stargazers_count": 11423,
+      "forks_count": 1050,
+      "watchers_count": 11423,
+      "open_issues_count": 186,
+      "language": "C#",
+      "license_name": "MIT",
+      "topics": [
+        "benchmark",
+        "benchmarking",
+        "c-sharp",
+        "csharp",
+        "dotnet",
+        "hacktoberfest",
+        "performance"
+      ],
+      "pushed_at": "2026-06-04T17:10:31Z",
+      "created_at": "2013-08-18T06:17:48Z",
+      "updated_at": "2026-06-06T03:53:51Z",
+      "matched_keywords": [
+        "benchmark"
+      ],
+      "categories": [
+        "Benchmark",
+        "Evaluation"
+      ],
+      "trend_score": 70.36,
+      "reason": "已有较高社区关注度；关键词覆盖 benchmark；可归入 Benchmark, Evaluation 方向。"
+    },
+    {
+      "full_name": "Cloud-CV/EvalAI",
+      "html_url": "https://github.com/Cloud-CV/EvalAI",
+      "description": ":cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI",
+      "stargazers_count": 2020,
+      "forks_count": 983,
+      "watchers_count": 2020,
+      "open_issues_count": 472,
+      "language": "Python",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "ai",
+        "ai-challenges",
+        "angularjs",
+        "artificial-intelligence",
+        "challenge",
+        "codecov",
+        "coveralls",
+        "django",
+        "docker",
+        "evalai",
+        "evaluation",
+        "leaderboard",
+        "machine-learning",
+        "python",
+        "reproducibility",
+        "reproducible-research",
+        "travis-ci"
+      ],
+      "pushed_at": "2026-06-03T17:36:00Z",
+      "created_at": "2016-10-21T00:51:45Z",
+      "updated_at": "2026-06-06T05:29:03Z",
+      "matched_keywords": [
+        "eval"
+      ],
+      "categories": [
+        "Benchmark",
+        "Evaluation"
+      ],
+      "trend_score": 70.27,
+      "reason": "社区关注度正在形成规模；命中 ai, artificial-intelligence, machine-learning 等 AI 相关 topic；关键词覆盖 eval；可归入 Benchmark, Evaluation 方向。"
+    },
+    {
+      "full_name": "google/benchmark",
+      "html_url": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "stargazers_count": 10223,
+      "forks_count": 1771,
+      "watchers_count": 10223,
+      "open_issues_count": 179,
+      "language": "C++",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "benchmark"
+      ],
+      "pushed_at": "2026-06-04T09:38:46Z",
+      "created_at": "2013-12-12T00:10:48Z",
+      "updated_at": "2026-06-05T14:31:31Z",
+      "matched_keywords": [
+        "benchmark"
+      ],
+      "categories": [
+        "Benchmark",
+        "Evaluation"
+      ],
+      "trend_score": 69.97,
+      "reason": "已有较高社区关注度；关键词覆盖 benchmark；可归入 Benchmark, Evaluation 方向。"
+    },
+    {
+      "full_name": "HBAI-Ltd/Toonflow-app",
+      "html_url": "https://github.com/HBAI-Ltd/Toonflow-app",
+      "description": "Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.",
+      "stargazers_count": 9755,
+      "forks_count": 1768,
+      "watchers_count": 9755,
+      "open_issues_count": 0,
+      "language": "TypeScript",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "ai",
+        "ai-content-creation",
+        "ai-tool",
+        "ai-video-generation",
+        "automation",
+        "content-generation",
+        "desktop-app",
+        "electron",
+        "generative-ai",
+        "image-generation",
+        "llm",
+        "nodejs",
+        "shorts",
+        "text-to-video",
+        "typescript",
+        "video-generation",
+        "vite",
+        "vue3"
+      ],
+      "pushed_at": "2026-06-08T12:50:49Z",
+      "created_at": "2026-01-29T10:25:45Z",
+      "updated_at": "2026-06-08T12:58:12Z",
+      "matched_keywords": [
+        "video generation"
+      ],
+      "categories": [
+        "Automation",
+        "Diffusion",
+        "LLM",
+        "Video"
+      ],
+      "trend_score": 69.95,
+      "reason": "社区关注度正在形成规模；命中 ai, generative-ai, llm 等 AI 相关 topic；关键词覆盖 video generation；可归入 Automation, Diffusion, LLM, Video 方向。"
+    },
+    {
+      "full_name": "EleutherAI/lm-evaluation-harness",
+      "html_url": "https://github.com/EleutherAI/lm-evaluation-harness",
+      "description": "A framework for few-shot evaluation of language models.",
+      "stargazers_count": 12835,
+      "forks_count": 3325,
+      "watchers_count": 12835,
+      "open_issues_count": 838,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "evaluation-framework",
+        "language-model",
+        "transformer"
+      ],
+      "pushed_at": "2026-06-02T15:06:38Z",
+      "created_at": "2020-08-28T00:09:15Z",
+      "updated_at": "2026-06-06T07:52:55Z",
+      "matched_keywords": [
+        "eval",
+        "language model"
+      ],
+      "categories": [
+        "Evaluation",
+        "LLM"
+      ],
+      "trend_score": 69.69,
+      "reason": "已有较高社区关注度；关键词覆盖 eval, language model；可归入 Evaluation, LLM 方向。"
+    },
+    {
+      "full_name": "kvcache-ai/Mooncake",
+      "html_url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "stargazers_count": 5517,
+      "forks_count": 828,
+      "watchers_count": 5517,
+      "open_issues_count": 511,
+      "language": "C++",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "disaggregation",
+        "inference",
+        "kvcache",
+        "llm",
+        "rdma",
+        "reinforcement-learning",
+        "sglang",
+        "tokenspeed",
+        "vllm"
+      ],
+      "pushed_at": "2026-06-06T09:13:03Z",
+      "created_at": "2024-06-25T05:21:05Z",
+      "updated_at": "2026-06-06T09:13:07Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Inference",
+        "LLM",
+        "Serving"
+      ],
+      "trend_score": 69.67,
+      "reason": "社区关注度正在形成规模；命中 inference, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Inference, LLM, Serving 方向。"
+    },
+    {
+      "full_name": "pathwaycom/pathway",
+      "html_url": "https://github.com/pathwaycom/pathway",
+      "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+      "stargazers_count": 63139,
+      "forks_count": 1676,
+      "watchers_count": 63139,
+      "open_issues_count": 38,
+      "language": "Python",
+      "license_name": "NOASSERTION",
+      "topics": [
+        "batch-processing",
+        "data-analytics",
+        "data-pipelines",
+        "data-processing",
+        "dataflow",
+        "etl",
+        "etl-framework",
+        "iot-analytics",
+        "kafka",
+        "machine-learning-algorithms",
+        "pathway",
+        "python",
+        "real-time",
+        "rust",
+        "stream-processing",
+        "streaming",
+        "time-series-analysis"
+      ],
+      "pushed_at": "2026-06-02T11:09:32Z",
+      "created_at": "2022-11-27T13:01:14Z",
+      "updated_at": "2026-06-02T12:03:31Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "LLM",
+        "RAG"
+      ],
+      "trend_score": 69.65,
+      "reason": "已有较高社区关注度；关键词覆盖 llm；可归入 LLM, RAG 方向。"
+    },
+    {
+      "full_name": "Andyyyy64/whichllm",
+      "html_url": "https://github.com/Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "stargazers_count": 2843,
+      "forks_count": 160,
+      "watchers_count": 2843,
+      "open_issues_count": 22,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "ai",
+        "apple-silicon",
+        "benchmarks",
+        "cli",
+        "command-line-tool",
+        "gguf",
+        "gpu",
+        "huggingface",
+        "inference",
+        "llm",
+        "local-llm",
+        "ollama",
+        "python",
+        "vram"
+      ],
+      "pushed_at": "2026-06-05T06:45:32Z",
+      "created_at": "2026-03-04T13:16:00Z",
+      "updated_at": "2026-06-06T09:08:25Z",
+      "matched_keywords": [
+        "benchmark",
+        "local llm"
+      ],
+      "categories": [
+        "Benchmark",
+        "Evaluation",
+        "Inference",
+        "LLM",
+        "Quantization"
+      ],
+      "trend_score": 69.5,
+      "reason": "社区关注度正在形成规模；命中 ai, inference, llm 等 AI 相关 topic；关键词覆盖 benchmark, local llm；可归入 Benchmark, Evaluation, Inference, LLM 方向。"
+    },
+    {
+      "full_name": "katanaml/sparrow",
+      "html_url": "https://github.com/katanaml/sparrow",
+      "description": "Structured data extraction, instruction calling and agentic workflows with ML, LLM and Vision LLM",
+      "stargazers_count": 5160,
+      "forks_count": 518,
+      "watchers_count": 5160,
+      "open_issues_count": 0,
+      "language": "Python",
+      "license_name": "GPL-3.0",
+      "topics": [
+        "agentic-ai",
+        "computer-vision",
+        "documentai",
+        "huggingface-transformers",
+        "llm",
+        "machinelearning",
+        "vllm"
+      ],
+      "pushed_at": "2026-06-05T11:41:44Z",
+      "created_at": "2022-01-08T08:45:44Z",
+      "updated_at": "2026-06-05T11:41:48Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "Data Engineering",
+        "Inference",
+        "LLM",
+        "Vision",
+        "Workflow"
+      ],
+      "trend_score": 68.76,
+      "reason": "社区关注度正在形成规模；命中 computer-vision, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, Data Engineering, Inference, LLM 方向。"
+    },
+    {
+      "full_name": "oobabooga/textgen",
+      "html_url": "https://github.com/oobabooga/textgen",
+      "description": "Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.",
+      "stargazers_count": 47258,
+      "forks_count": 5977,
+      "watchers_count": 47258,
+      "open_issues_count": 815,
+      "language": "Python",
+      "license_name": "AGPL-3.0",
+      "topics": [],
+      "pushed_at": "2026-06-02T03:10:11Z",
+      "created_at": "2022-12-21T04:17:37Z",
+      "updated_at": "2026-06-02T12:04:42Z",
+      "matched_keywords": [
+        "local llm"
+      ],
+      "categories": [
+        "LLM",
+        "Vision"
+      ],
+      "trend_score": 68.69,
+      "reason": "已有较高社区关注度；关键词覆盖 local llm；可归入 LLM, Vision 方向。"
+    },
+    {
+      "full_name": "ikaijua/Awesome-AITools",
+      "html_url": "https://github.com/ikaijua/Awesome-AITools",
+      "description": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests",
+      "stargazers_count": 5997,
+      "forks_count": 606,
+      "watchers_count": 5997,
+      "open_issues_count": 41,
+      "language": "Python",
+      "license_name": "Unknown",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "chatgpt",
+        "claude",
+        "claude-skills",
+        "claudecode",
+        "deepseek",
+        "gemini",
+        "gemini3-pro",
+        "gpt",
+        "gpt-5",
+        "llm",
+        "machinelearning",
+        "nanobanana",
+        "tools"
+      ],
+      "pushed_at": "2026-06-05T11:48:28Z",
+      "created_at": "2023-04-02T04:06:56Z",
+      "updated_at": "2026-06-05T11:49:11Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 68.45,
+      "reason": "社区关注度正在形成规模；命中 ai, artificial-intelligence, llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM 方向。"
+    },
+    {
+      "full_name": "guardrails-ai/guardrails",
+      "html_url": "https://github.com/guardrails-ai/guardrails",
+      "description": "Adding guardrails to large language models.",
+      "stargazers_count": 6968,
+      "forks_count": 617,
+      "watchers_count": 6968,
+      "open_issues_count": 38,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "ai",
+        "foundation-model",
+        "gpt-3",
+        "llm",
+        "openai"
+      ],
+      "pushed_at": "2026-06-04T19:36:52Z",
+      "created_at": "2023-01-29T04:11:35Z",
+      "updated_at": "2026-06-05T07:35:45Z",
+      "matched_keywords": [
+        "language model",
+        "large language model"
+      ],
+      "categories": [
+        "AI Security",
+        "LLM"
+      ],
+      "trend_score": 68.34,
+      "reason": "社区关注度正在形成规模；命中 ai, llm 等 AI 相关 topic；关键词覆盖 language model, large language model；可归入 AI Security, LLM 方向。"
+    },
+    {
+      "full_name": "EricLBuehler/mistral.rs",
+      "html_url": "https://github.com/EricLBuehler/mistral.rs",
+      "description": "Fast, flexible LLM inference",
+      "stargazers_count": 7217,
+      "forks_count": 615,
+      "watchers_count": 7217,
+      "open_issues_count": 345,
+      "language": "Rust",
+      "license_name": "MIT",
+      "topics": [
+        "llm",
+        "rust",
+        "uqff"
+      ],
+      "pushed_at": "2026-06-02T12:57:10Z",
+      "created_at": "2024-02-26T22:30:06Z",
+      "updated_at": "2026-06-02T12:57:15Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Inference",
+        "LLM"
+      ],
+      "trend_score": 68.24,
+      "reason": "社区关注度正在形成规模；命中 llm 等 AI 相关 topic；关键词覆盖 llm；可归入 Inference, LLM 方向。"
+    },
+    {
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stargazers_count": 46918,
+      "forks_count": 4456,
+      "watchers_count": 46918,
+      "open_issues_count": 1135,
+      "language": "TypeScript",
+      "license_name": "AGPL-3.0",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "awesome-skills",
+        "claude-code",
+        "codex",
+        "deepseek",
+        "hermes-agent",
+        "openclaw",
+        "skills",
+        "vibe-coding"
+      ],
+      "pushed_at": "2026-06-05T11:49:10Z",
+      "created_at": "2024-05-24T01:56:26Z",
+      "updated_at": "2026-06-05T11:49:33Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 68.23,
+      "reason": "已有较高社区关注度；关键词覆盖 llm；可归入 AI Coding, Agent, LLM 方向。"
+    },
+    {
+      "full_name": "ModelTC/LightLLM",
+      "html_url": "https://github.com/ModelTC/LightLLM",
+      "description": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+      "stargazers_count": 4083,
+      "forks_count": 332,
+      "watchers_count": 4083,
+      "open_issues_count": 137,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "deep-learning",
+        "gpt",
+        "llama",
+        "llm",
+        "model-serving",
+        "nlp",
+        "openai-triton"
+      ],
+      "pushed_at": "2026-06-02T09:37:31Z",
+      "created_at": "2023-07-22T08:11:15Z",
+      "updated_at": "2026-06-02T02:41:57Z",
+      "matched_keywords": [
+        "language model",
+        "large language model"
+      ],
+      "categories": [
+        "Inference",
+        "LLM",
+        "Serving"
+      ],
+      "trend_score": 67.57,
+      "reason": "社区关注度正在形成规模；命中 deep-learning, llm, nlp 等 AI 相关 topic；关键词覆盖 language model, large language model；可归入 Inference, LLM, Serving 方向。"
+    },
+    {
+      "full_name": "gsd-build/get-shit-done",
+      "html_url": "https://github.com/gsd-build/get-shit-done",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+      "stargazers_count": 63830,
+      "forks_count": 5435,
+      "watchers_count": 63830,
+      "open_issues_count": 0,
+      "language": "JavaScript",
+      "license_name": "MIT",
+      "topics": [
+        "claude-code",
+        "context-engineering",
+        "meta-prompting",
+        "spec-driven-development"
+      ],
+      "pushed_at": "2026-05-31T17:46:54Z",
+      "created_at": "2025-12-14T14:17:12Z",
+      "updated_at": "2026-06-02T12:57:56Z",
+      "matched_keywords": [
+        "context engineering"
+      ],
+      "categories": [
+        "LLM",
+        "Long Context",
+        "Prompt Engineering"
+      ],
+      "trend_score": 67.33,
+      "reason": "已有较高社区关注度；关键词覆盖 context engineering；可归入 LLM, Long Context, Prompt Engineering 方向。"
+    },
+    {
+      "full_name": "thu-pacman/chitu",
+      "html_url": "https://github.com/thu-pacman/chitu",
+      "description": "High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.",
+      "stargazers_count": 3134,
+      "forks_count": 265,
+      "watchers_count": 3134,
+      "open_issues_count": 53,
+      "language": "Python",
+      "license_name": "Apache-2.0",
+      "topics": [
+        "deepseek",
+        "gpu",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "pytorch"
+      ],
+      "pushed_at": "2026-06-02T12:48:15Z",
+      "created_at": "2025-02-20T06:34:38Z",
+      "updated_at": "2026-06-02T12:48:21Z",
+      "matched_keywords": [
+        "language model",
+        "large language model",
+        "llm"
+      ],
+      "categories": [
+        "Inference",
+        "LLM",
+        "Serving"
+      ],
+      "trend_score": 67.23,
+      "reason": "社区关注度正在形成规模；命中 llm 等 AI 相关 topic；关键词覆盖 language model, large language model, llm；可归入 Inference, LLM, Serving 方向。"
+    },
+    {
+      "full_name": "MervinPraison/PraisonAI",
+      "html_url": "https://github.com/MervinPraison/PraisonAI",
+      "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.",
+      "stargazers_count": 8027,
+      "forks_count": 1227,
+      "watchers_count": 8027,
+      "open_issues_count": 91,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agent-framework",
+        "ai-agent-sdk",
+        "ai-agents",
+        "ai-agents-framework",
+        "ai-agents-sdk",
+        "ai-framwork",
+        "aiagent",
+        "aiagentframework",
+        "aiagents",
+        "aiagentsframework",
+        "claw",
+        "framework",
+        "multi-agent",
+        "multi-agent-system",
+        "multi-agent-systems",
+        "multi-agents",
+        "multi-ai-agents",
+        "openclaw"
+      ],
+      "pushed_at": "2026-06-02T12:58:05Z",
+      "created_at": "2024-03-19T16:45:25Z",
+      "updated_at": "2026-06-02T12:56:47Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "Agent",
+        "LLM",
+        "Memory",
+        "RAG"
+      ],
+      "trend_score": 67.01,
+      "reason": "社区关注度正在形成规模；命中 agents, ai 等 AI 相关 topic；关键词覆盖 llm；可归入 Agent, LLM, Memory, RAG 方向。"
+    },
+    {
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stargazers_count": 9841,
+      "forks_count": 800,
+      "watchers_count": 9841,
+      "open_issues_count": 208,
+      "language": "TypeScript",
+      "license_name": "MIT",
+      "topics": [
+        "ai-agent",
+        "ai-coding-agent",
+        "anthropic",
+        "bun",
+        "claude",
+        "cli",
+        "coding-assistant",
+        "llm",
+        "mcp",
+        "multi-provider",
+        "openai",
+        "rust",
+        "terminal",
+        "tui",
+        "typescript"
+      ],
+      "pushed_at": "2026-06-02T12:51:40Z",
+      "created_at": "2025-12-31T14:01:28Z",
+      "updated_at": "2026-06-02T12:57:11Z",
+      "matched_keywords": [
+        "llm"
+      ],
+      "categories": [
+        "AI Coding",
+        "Agent",
+        "LLM"
+      ],
+      "trend_score": 66.78,
+      "reason": "社区关注度正在形成规模；命中 llm 等 AI 相关 topic；关键词覆盖 llm；可归入 AI Coding, Agent, LLM 方向。"
+    },
+    {
+      "full_name": "stanfordnlp/dspy",
+      "html_url": "https://github.com/stanfordnlp/dspy",
+      "description": "DSPy: The framework for programming—not prompting—language models",
+      "stargazers_count": 34784,
+      "forks_count": 2946,
+      "watchers_count": 34784,
+      "open_issues_count": 528,
+      "language": "Python",
+      "license_name": "MIT",
+      "topics": [],
+      "pushed_at": "2026-06-01T22:37:31Z",
+      "created_at": "2023-01-09T21:01:51Z",
+      "updated_at": "2026-06-02T12:13:45Z",
+      "matched_keywords": [
+        "language model"
+      ],
+      "categories": [
+        "LLM"
+      ],
+      "trend_score": 66.69,
+      "reason": "已有较高社区关注度；关键词覆盖 language model；可归入 LLM 方向。"
+    }
+  ]
+}
